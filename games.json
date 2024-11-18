@@ -1,0 +1,5038 @@
+[
+  {
+    "id": "1129701343",
+    "title": "Jill of the Jungle: The Complete Trilogy",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_jill_of_the_jungle_1.0_cs_(28162).exe",
+        "url": "/downloads/jill_of_the_jungle_the_complete_trilogy/en1installer0",
+        "version": "1.0 CS",
+        "platform": "windows",
+        "language": "English",
+        "size": 12677240
+      },
+      {
+        "name": "jill_of_the_jungle__the_complete_trilogy_enUS_1_0_1_33010.pkg",
+        "url": "/downloads/jill_of_the_jungle_the_complete_trilogy/en2installer0",
+        "version": "1.0.1",
+        "platform": "mac",
+        "language": "English",
+        "size": 11068997
+      },
+      {
+        "name": "jill_of_the_jungle_the_complete_trilogy_gog_1_24778.sh",
+        "url": "/downloads/jill_of_the_jungle_the_complete_trilogy/en3installer0",
+        "version": "gog-1",
+        "platform": "linux",
+        "language": "English",
+        "size": 6406512
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1202885143",
+    "title": "Tomb Raider: Anniversary",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_tomb_raider_anniversary_1.0_(48900).exe",
+        "url": "/downloads/tomb_raider_anniversary/en1installer0",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 855960
+      },
+      {
+        "name": "setup_tomb_raider_anniversary_1.0_(48900)-1.bin",
+        "url": "/downloads/tomb_raider_anniversary/en1installer1",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 3047271801
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207658679",
+    "title": "Unreal Gold",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_unreal_gold_2.0.0.6.exe",
+        "url": "/downloads/unreal_gold/en1installer0",
+        "version": null,
+        "platform": "windows",
+        "language": "English",
+        "size": 233997336
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207658691",
+    "title": "Unreal Tournament 2004 Editor's Choice Edition",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_unreal_tournament_2004_1.0_(18947).exe",
+        "url": "/downloads/unreal_tournament_2004_ece/en1installer0",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 1014472
+      },
+      {
+        "name": "setup_unreal_tournament_2004_1.0_(18947)-1.bin",
+        "url": "/downloads/unreal_tournament_2004_ece/en1installer1",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 2795275375
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207658692",
+    "title": "Unreal Tournament GOTY",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_ut_goty_2.0.0.5.exe",
+        "url": "/downloads/unreal_tournament_goty/en1installer0",
+        "version": null,
+        "platform": "windows",
+        "language": "English",
+        "size": 316872152
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207658694",
+    "title": "Lure of the Temptress",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_lure_of_the_temptress_1.0_(20270).exe",
+        "url": "/downloads/lure_of_the_temptress/en1installer0",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 26465288
+      },
+      {
+        "name": "lure_of_the_temptress_enUS_1_0__scummvm_2_1__33277.pkg",
+        "url": "/downloads/lure_of_the_temptress/en2installer0",
+        "version": "1.0 (ScummVM 2.1)",
+        "platform": "mac",
+        "language": "English",
+        "size": 28546629
+      },
+      {
+        "name": "lure_of_the_temptress_en_gog_2_20099.sh",
+        "url": "/downloads/lure_of_the_temptress/en3installer0",
+        "version": "gog-2",
+        "platform": "linux",
+        "language": "English",
+        "size": 44091463
+      },
+      {
+        "name": "setup_lure_of_the_temptress_1.0_(german)_(20270).exe",
+        "url": "/downloads/lure_of_the_temptress/de1installer0",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "Deutsch",
+        "size": 26046392
+      },
+      {
+        "name": "lure_of_the_temptress_deDE_1_0__scummvm_2_1__33277.pkg",
+        "url": "/downloads/lure_of_the_temptress/de2installer0",
+        "version": "1.0 (ScummVM 2.1)",
+        "platform": "mac",
+        "language": "Deutsch",
+        "size": 28538436
+      },
+      {
+        "name": "lure_of_the_temptress_de_gog_2_20099.sh",
+        "url": "/downloads/lure_of_the_temptress/de3installer0",
+        "version": "gog-2",
+        "platform": "linux",
+        "language": "Deutsch",
+        "size": 44075341
+      },
+      {
+        "name": "setup_lure_of_the_temptress_1.0_(spanish)_(20270).exe",
+        "url": "/downloads/lure_of_the_temptress/es1installer0",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "espa\u00f1ol",
+        "size": 24505824
+      },
+      {
+        "name": "lure_of_the_temptress_esES_1_0__scummvm_2_1__33277.pkg",
+        "url": "/downloads/lure_of_the_temptress/es2installer0",
+        "version": "1.0 (ScummVM 2.1)",
+        "platform": "mac",
+        "language": "espa\u00f1ol",
+        "size": 28526150
+      },
+      {
+        "name": "lure_of_the_temptress_es_gog_2_20099.sh",
+        "url": "/downloads/lure_of_the_temptress/es3installer0",
+        "version": "gog-2",
+        "platform": "linux",
+        "language": "espa\u00f1ol",
+        "size": 44066088
+      },
+      {
+        "name": "setup_lure_of_the_temptress_1.0_(french)_(20270).exe",
+        "url": "/downloads/lure_of_the_temptress/fr1installer0",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "fran\u00e7ais",
+        "size": 26446224
+      },
+      {
+        "name": "lure_of_the_temptress_frFR_1_0__scummvm_2_1__33277.pkg",
+        "url": "/downloads/lure_of_the_temptress/fr2installer0",
+        "version": "1.0 (ScummVM 2.1)",
+        "platform": "mac",
+        "language": "fran\u00e7ais",
+        "size": 28530246
+      },
+      {
+        "name": "lure_of_the_temptress_fr_gog_2_20099.sh",
+        "url": "/downloads/lure_of_the_temptress/fr3installer0",
+        "version": "gog-2",
+        "platform": "linux",
+        "language": "fran\u00e7ais",
+        "size": 44072403
+      },
+      {
+        "name": "setup_lure_of_the_temptress_1.0_(italian)_(20270).exe",
+        "url": "/downloads/lure_of_the_temptress/it1installer0",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "italiano",
+        "size": 25541040
+      },
+      {
+        "name": "lure_of_the_temptress_itIT_1_0__scummvm_2_1__33277.pkg",
+        "url": "/downloads/lure_of_the_temptress/it2installer0",
+        "version": "1.0 (ScummVM 2.1)",
+        "platform": "mac",
+        "language": "italiano",
+        "size": 28526150
+      },
+      {
+        "name": "lure_of_the_temptress_it_gog_2_20099.sh",
+        "url": "/downloads/lure_of_the_temptress/it3installer0",
+        "version": "gog-2",
+        "platform": "linux",
+        "language": "italiano",
+        "size": 44064304
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207658695",
+    "title": "Beneath a Steel Sky",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_beneath_a_steel_sky_1.0_(20270).exe",
+        "url": "/downloads/beneath_a_steel_sky/en1installer0",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 91327544
+      },
+      {
+        "name": "beneath_a_steel_sky_enUS_1_0_33348.pkg",
+        "url": "/downloads/beneath_a_steel_sky/en2installer0",
+        "version": "1.0",
+        "platform": "mac",
+        "language": "English",
+        "size": 93034057
+      },
+      {
+        "name": "beneath_a_steel_sky_en_gog_2_20150.sh",
+        "url": "/downloads/beneath_a_steel_sky/en3installer0",
+        "version": "gog-2",
+        "platform": "linux",
+        "language": "English",
+        "size": 105864419
+      },
+      {
+        "name": "setup_beneath_a_steel_sky_1.0_(20270).exe",
+        "url": "/downloads/beneath_a_steel_sky/de1installer2",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "Deutsch",
+        "size": 91327544
+      },
+      {
+        "name": "beneath_a_steel_sky_deDE_1_0_33348.pkg",
+        "url": "/downloads/beneath_a_steel_sky/de2installer0",
+        "version": "1.0",
+        "platform": "mac",
+        "language": "Deutsch",
+        "size": 93034057
+      },
+      {
+        "name": "beneath_a_steel_sky_en_gog_2_20150.sh",
+        "url": "/downloads/beneath_a_steel_sky/de3installer2",
+        "version": "gog-2",
+        "platform": "linux",
+        "language": "Deutsch",
+        "size": 105864419
+      },
+      {
+        "name": "setup_beneath_a_steel_sky_1.0_(20270).exe",
+        "url": "/downloads/beneath_a_steel_sky/es1installer2",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "espa\u00f1ol",
+        "size": 91327544
+      },
+      {
+        "name": "beneath_a_steel_sky_esES_1_0_33348.pkg",
+        "url": "/downloads/beneath_a_steel_sky/es2installer0",
+        "version": "1.0",
+        "platform": "mac",
+        "language": "espa\u00f1ol",
+        "size": 93034054
+      },
+      {
+        "name": "beneath_a_steel_sky_en_gog_2_20150.sh",
+        "url": "/downloads/beneath_a_steel_sky/es3installer2",
+        "version": "gog-2",
+        "platform": "linux",
+        "language": "espa\u00f1ol",
+        "size": 105864419
+      },
+      {
+        "name": "setup_beneath_a_steel_sky_1.0_(20270).exe",
+        "url": "/downloads/beneath_a_steel_sky/fr1installer2",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "fran\u00e7ais",
+        "size": 91327544
+      },
+      {
+        "name": "beneath_a_steel_sky_frFR_1_0_33348.pkg",
+        "url": "/downloads/beneath_a_steel_sky/fr2installer0",
+        "version": "1.0",
+        "platform": "mac",
+        "language": "fran\u00e7ais",
+        "size": 93034055
+      },
+      {
+        "name": "beneath_a_steel_sky_en_gog_2_20150.sh",
+        "url": "/downloads/beneath_a_steel_sky/fr3installer2",
+        "version": "gog-2",
+        "platform": "linux",
+        "language": "fran\u00e7ais",
+        "size": 105864419
+      },
+      {
+        "name": "setup_beneath_a_steel_sky_1.0_(20270).exe",
+        "url": "/downloads/beneath_a_steel_sky/it1installer2",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "italiano",
+        "size": 91327544
+      },
+      {
+        "name": "beneath_a_steel_sky_itIT_1_0_33348.pkg",
+        "url": "/downloads/beneath_a_steel_sky/it2installer0",
+        "version": "1.0",
+        "platform": "mac",
+        "language": "italiano",
+        "size": 93034052
+      },
+      {
+        "name": "beneath_a_steel_sky_en_gog_2_20150.sh",
+        "url": "/downloads/beneath_a_steel_sky/it3installer2",
+        "version": "gog-2",
+        "platform": "linux",
+        "language": "italiano",
+        "size": 105864419
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207658707",
+    "title": "Broken Sword 2: Remastered",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_broken_sword_2_remastered_3.3.0_(64bit)_(59147).exe",
+        "url": "/downloads/broken_sword_2__the_smoking_mirror/en1installer0",
+        "version": "3.3.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 835712848
+      },
+      {
+        "name": "setup_broken_sword_2_remastered_3.3.0_(32bit)_(59147).exe",
+        "url": "/downloads/broken_sword_2__the_smoking_mirror/en1patch0",
+        "version": "3.3.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 810495408
+      },
+      {
+        "name": "broken_sword_2__remastered_enUS_3_3_0_.pkg",
+        "url": "/downloads/broken_sword_2__the_smoking_mirror/en2installer0",
+        "version": "3.3.0",
+        "platform": "mac",
+        "language": "English",
+        "size": 791803182
+      },
+      {
+        "name": "broken_sword_2_remastered_3_3_0_59987.sh",
+        "url": "/downloads/broken_sword_2__the_smoking_mirror/en3installer0",
+        "version": "3.3.0",
+        "platform": "linux",
+        "language": "English",
+        "size": 791375203
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207658708",
+    "title": "Broken Sword 3: The Sleeping Dragon",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_broken_sword_3_-_the_sleeping_dragon_1.0_(19115).exe",
+        "url": "/downloads/broken_sword_3__the_sleeping_dragon/en1installer0",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 1688112
+      },
+      {
+        "name": "setup_broken_sword_3_-_the_sleeping_dragon_1.0_(19115)-1.bin",
+        "url": "/downloads/broken_sword_3__the_sleeping_dragon/en1installer1",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 1344826010
+      },
+      {
+        "name": "setup_broken_sword_3_-_the_sleeping_dragon_de-de_1.0_(19115).exe",
+        "url": "/downloads/broken_sword_3__the_sleeping_dragon/de1installer0",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "Deutsch",
+        "size": 1687464
+      },
+      {
+        "name": "setup_broken_sword_3_-_the_sleeping_dragon_de-de_1.0_(19115)-1.bin",
+        "url": "/downloads/broken_sword_3__the_sleeping_dragon/de1installer1",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "Deutsch",
+        "size": 1343091645
+      },
+      {
+        "name": "setup_broken_sword_3_-_the_sleeping_dragon_es-es_1.0_(19115).exe",
+        "url": "/downloads/broken_sword_3__the_sleeping_dragon/es1installer0",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "espa\u00f1ol",
+        "size": 1689936
+      },
+      {
+        "name": "setup_broken_sword_3_-_the_sleeping_dragon_es-es_1.0_(19115)-1.bin",
+        "url": "/downloads/broken_sword_3__the_sleeping_dragon/es1installer1",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "espa\u00f1ol",
+        "size": 1351281913
+      },
+      {
+        "name": "setup_broken_sword_3_-_the_sleeping_dragon_fr-fr_1.0_(19115).exe",
+        "url": "/downloads/broken_sword_3__the_sleeping_dragon/fr1installer0",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "fran\u00e7ais",
+        "size": 1687632
+      },
+      {
+        "name": "setup_broken_sword_3_-_the_sleeping_dragon_fr-fr_1.0_(19115)-1.bin",
+        "url": "/downloads/broken_sword_3__the_sleeping_dragon/fr1installer1",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "fran\u00e7ais",
+        "size": 1342762158
+      },
+      {
+        "name": "setup_broken_sword_3_-_the_sleeping_dragon_it-it_1.0_(19115).exe",
+        "url": "/downloads/broken_sword_3__the_sleeping_dragon/it1installer0",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "italiano",
+        "size": 1689776
+      },
+      {
+        "name": "setup_broken_sword_3_-_the_sleeping_dragon_it-it_1.0_(19115)-1.bin",
+        "url": "/downloads/broken_sword_3__the_sleeping_dragon/it1installer1",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "italiano",
+        "size": 1361357391
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207658753",
+    "title": "Teenagent",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_teenagent_1.0_(15595).exe",
+        "url": "/downloads/teenagent/en1installer0",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 19323376
+      },
+      {
+        "name": "teenagent_enUS_gog_4_35100.pkg",
+        "url": "/downloads/teenagent/en2installer0",
+        "version": "gog-4",
+        "platform": "mac",
+        "language": "English",
+        "size": 13932149
+      },
+      {
+        "name": "setup_teenagent_polish_1.0_(15595).exe",
+        "url": "/downloads/teenagent/pl1installer0",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "polski",
+        "size": 154501312
+      },
+      {
+        "name": "teenagent_plPL_gog_4_35100.pkg",
+        "url": "/downloads/teenagent/pl2installer0",
+        "version": "gog-4",
+        "platform": "mac",
+        "language": "polski",
+        "size": 156265364
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207658754",
+    "title": "POSTAL: Classic and Uncut",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_postal_classic_and_uncut_1.0_-_05.07.2018_(21993).exe",
+        "url": "/downloads/postal_classic_and_uncut/en1installer0",
+        "version": "1.0 - 05.07.2018",
+        "platform": "windows",
+        "language": "English",
+        "size": 306792440
+      },
+      {
+        "name": "postal_classic_and_uncut_2.1.0.15.pkg",
+        "url": "/downloads/postal_classic_and_uncut/en2installer1",
+        "version": "1.0 (gog-15)",
+        "platform": "mac",
+        "language": "English",
+        "size": 141702634
+      },
+      {
+        "name": "gog_postal_classic_and_uncut_2.1.0.3.sh",
+        "url": "/downloads/postal_classic_and_uncut/en3installer1",
+        "version": "1.0",
+        "platform": "linux",
+        "language": "English",
+        "size": 147551738
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207658755",
+    "title": "POSTAL 2",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_postal_2_5100_(64474).exe",
+        "url": "/downloads/postal_2/en1installer0",
+        "version": "5100",
+        "platform": "windows",
+        "language": "English",
+        "size": 934280
+      },
+      {
+        "name": "setup_postal_2_5100_(64474)-1.bin",
+        "url": "/downloads/postal_2/en1installer1",
+        "version": "5100",
+        "platform": "windows",
+        "language": "English",
+        "size": 2551252931
+      },
+      {
+        "name": "postal_2_en_2.0.0.9.pkg",
+        "url": "/downloads/postal_2/en2installer1",
+        "version": "(gog-9)",
+        "platform": "mac",
+        "language": "English",
+        "size": 1071412715
+      },
+      {
+        "name": "setup_postal_2_5100_(spanish)_(64474).exe",
+        "url": "/downloads/postal_2/es1installer0",
+        "version": "5100",
+        "platform": "windows",
+        "language": "espa\u00f1ol",
+        "size": 936024
+      },
+      {
+        "name": "setup_postal_2_5100_(spanish)_(64474)-1.bin",
+        "url": "/downloads/postal_2/es1installer1",
+        "version": "5100",
+        "platform": "windows",
+        "language": "espa\u00f1ol",
+        "size": 2554086696
+      },
+      {
+        "name": "setup_postal_2_5100_(portuguese)_(64474).exe",
+        "url": "/downloads/postal_2/pt1installer0",
+        "version": "5100",
+        "platform": "windows",
+        "language": "portugu\u00eas",
+        "size": 935272
+      },
+      {
+        "name": "setup_postal_2_5100_(portuguese)_(64474)-1.bin",
+        "url": "/downloads/postal_2/pt1installer1",
+        "version": "5100",
+        "platform": "windows",
+        "language": "portugu\u00eas",
+        "size": 2554133033
+      },
+      {
+        "name": "setup_postal_2_5100_(turkish)_(64474).exe",
+        "url": "/downloads/postal_2/tr1installer0",
+        "version": "5100",
+        "platform": "windows",
+        "language": "T\u00fcrk\u00e7e",
+        "size": 936192
+      },
+      {
+        "name": "setup_postal_2_5100_(turkish)_(64474)-1.bin",
+        "url": "/downloads/postal_2/tr1installer1",
+        "version": "5100",
+        "platform": "windows",
+        "language": "T\u00fcrk\u00e7e",
+        "size": 2554204648
+      },
+      {
+        "name": "setup_postal_2_5100_(chinese_simplified)_(64474).exe",
+        "url": "/downloads/postal_2/cn1installer0",
+        "version": "5100",
+        "platform": "windows",
+        "language": "\u4e2d\u6587(\u7b80\u4f53)",
+        "size": 939048
+      },
+      {
+        "name": "setup_postal_2_5100_(chinese_simplified)_(64474)-1.bin",
+        "url": "/downloads/postal_2/cn1installer1",
+        "version": "5100",
+        "platform": "windows",
+        "language": "\u4e2d\u6587(\u7b80\u4f53)",
+        "size": 2782079248
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207658835",
+    "title": "Caesar 3",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_caesartm_3_1.0.1.0_(76354).exe",
+        "url": "/downloads/caesar_3/en1installer0",
+        "version": "1.0.1.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 518683032
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207658880",
+    "title": "Total Annihilation: Commander Pack",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_total_annihilation_commander_pack_3.1_(22139).exe",
+        "url": "/downloads/total_anihilation_commander_pack/en1installer0",
+        "version": "3.1",
+        "platform": "windows",
+        "language": "English",
+        "size": 1093885504
+      },
+      {
+        "name": "total_annihilation__commander_pack_en_1_3_15733.pkg",
+        "url": "/downloads/total_anihilation_commander_pack/en2installer0",
+        "version": "1.3",
+        "platform": "mac",
+        "language": "English",
+        "size": 2559350261
+      },
+      {
+        "name": "total_annihilation_commander_pack_2.0.0.10.dmg",
+        "url": "/downloads/total_anihilation_commander_pack/en2patch1",
+        "version": "1.3",
+        "platform": "mac",
+        "language": "English",
+        "size": 1144736288
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207658900",
+    "title": "Broken Sword: Director's Cut",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_broken_sword_-_directors_cut_1.0.744_(22165).exe",
+        "url": "/downloads/broken_sword_directors_cut/en1installer0",
+        "version": "1.0.744",
+        "platform": "windows",
+        "language": "English",
+        "size": 1237333040
+      },
+      {
+        "name": "broken_sword_2.0.0.8.dmg",
+        "url": "/downloads/broken_sword_directors_cut/en2installer1",
+        "version": "(gog-8)",
+        "platform": "mac",
+        "language": "English",
+        "size": 1138170508
+      },
+      {
+        "name": "gog_broken_sword_director_s_cut_2.0.0.2.sh",
+        "url": "/downloads/broken_sword_directors_cut/en3installer1",
+        "version": "(gog-2)",
+        "platform": "linux",
+        "language": "English",
+        "size": 1220527056
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207658901",
+    "title": "Tyrian 2000",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_tyrian_2000_3.01_(76355).exe",
+        "url": "/downloads/tyrian_2000/en1installer0",
+        "version": "3.01",
+        "platform": "windows",
+        "language": "English",
+        "size": 18670224
+      },
+      {
+        "name": "tyrian_2000_enUS_3_0_33107.pkg",
+        "url": "/downloads/tyrian_2000/en2installer0",
+        "version": "3.0",
+        "platform": "mac",
+        "language": "English",
+        "size": 15955525
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207658924",
+    "title": "The Witcher: Enhanced Edition",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_the_witcher_enhanced_edition_directors_cut_1.5_(cs)_gog_0.2_(77554).exe",
+        "url": "/downloads/the_witcher/en1installer0",
+        "version": "1.5 (CS) GOG 0.2",
+        "platform": "windows",
+        "language": "English",
+        "size": 1294920
+      },
+      {
+        "name": "setup_the_witcher_enhanced_edition_directors_cut_1.5_(cs)_gog_0.2_(77554)-1.bin",
+        "url": "/downloads/the_witcher/en1installer1",
+        "version": "1.5 (CS) GOG 0.2",
+        "platform": "windows",
+        "language": "English",
+        "size": 4293680638
+      },
+      {
+        "name": "setup_the_witcher_enhanced_edition_directors_cut_1.5_(cs)_gog_0.2_(77554)-2.bin",
+        "url": "/downloads/the_witcher/en1installer2",
+        "version": "1.5 (CS) GOG 0.2",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_the_witcher_enhanced_edition_directors_cut_1.5_(cs)_gog_0.2_(77554)-3.bin",
+        "url": "/downloads/the_witcher/en1installer3",
+        "version": "1.5 (CS) GOG 0.2",
+        "platform": "windows",
+        "language": "English",
+        "size": 1589818064
+      },
+      {
+        "name": "patch_the_witcher_enhanced_edition_directors_cut_1.5_(A)_(10712)_to_1.5_(CS)_GOG_0.2_(77554).exe",
+        "url": "/downloads/the_witcher/en1patch0",
+        "version": "1.5 (CS) GOG 0.2",
+        "platform": "windows",
+        "language": "English",
+        "size": 3985000
+      },
+      {
+        "name": "the_witcher__enhanced_edition_english_2_3a.pkg",
+        "url": "/downloads/the_witcher/en2installer0",
+        "version": "2.3a",
+        "platform": "mac",
+        "language": "English",
+        "size": 10316939501
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207658926",
+    "title": "Desperados: Wanted Dead or Alive",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_desperados_wanted_dead_or_alive_1.0.2-thqn_(22409).exe",
+        "url": "/downloads/desperados_wanted_dead_or_alive/en1installer0",
+        "version": "1.0.2-THQN",
+        "platform": "windows",
+        "language": "English",
+        "size": 1755254368
+      },
+      {
+        "name": "patch_desperados_wanted_dead_or_alive_1.0.1-THQN_(22138)_to_1.0.2-THQN_(22409).exe",
+        "url": "/downloads/desperados_wanted_dead_or_alive/en1patch0",
+        "version": "1.0.2-THQN",
+        "platform": "windows",
+        "language": "English",
+        "size": 10345384
+      },
+      {
+        "name": "desperados__wanted_dead_or_alive_enUS_1_0_2_thqn_22619.pkg",
+        "url": "/downloads/desperados_wanted_dead_or_alive/en2installer0",
+        "version": "1.0.2-THQN",
+        "platform": "mac",
+        "language": "English",
+        "size": 1745528308
+      },
+      {
+        "name": "desperados_wanted_dead_or_alive_en_1_0_2_thqn_22430.sh",
+        "url": "/downloads/desperados_wanted_dead_or_alive/en3installer0",
+        "version": "1.0.2-THQN",
+        "platform": "linux",
+        "language": "English",
+        "size": 1746962853
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207658962",
+    "title": "Ultima\u2122 4: Quest of the Avatar",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_ultima_iv_-_quest_of_the_avatar_1.0_cs_(28045).exe",
+        "url": "/downloads/ultima_4/en1installer0",
+        "version": "1.0 CS",
+        "platform": "windows",
+        "language": "English",
+        "size": 12806032
+      },
+      {
+        "name": "ultima__4__quest_of_the_avatar_enUS_1_0_31261.pkg",
+        "url": "/downloads/ultima_4/en2installer0",
+        "version": "1.0",
+        "platform": "mac",
+        "language": "English",
+        "size": 11003580
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207658973",
+    "title": "Broken Sword 4: The Angel of Death (Secrets of the Ark)",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_broken_sword_4_the_angel_of_death_1.1a_(24519).exe",
+        "url": "/downloads/broken_sword_4/en1installer0",
+        "version": "1.1a",
+        "platform": "windows",
+        "language": "English",
+        "size": 832336
+      },
+      {
+        "name": "setup_broken_sword_4_the_angel_of_death_1.1a_(24519)-1.bin",
+        "url": "/downloads/broken_sword_4/en1installer1",
+        "version": "1.1a",
+        "platform": "windows",
+        "language": "English",
+        "size": 1681967394
+      },
+      {
+        "name": "setup_broken_sword_4_the_angel_of_death_1.1a_(german)_(24519).exe",
+        "url": "/downloads/broken_sword_4/de1installer0",
+        "version": "1.1a",
+        "platform": "windows",
+        "language": "Deutsch",
+        "size": 832616
+      },
+      {
+        "name": "setup_broken_sword_4_the_angel_of_death_1.1a_(german)_(24519)-1.bin",
+        "url": "/downloads/broken_sword_4/de1installer1",
+        "version": "1.1a",
+        "platform": "windows",
+        "language": "Deutsch",
+        "size": 1694178291
+      },
+      {
+        "name": "setup_broken_sword_4_the_angel_of_death_1.1a_(spanish)_(24519).exe",
+        "url": "/downloads/broken_sword_4/es1installer0",
+        "version": "1.1a",
+        "platform": "windows",
+        "language": "espa\u00f1ol",
+        "size": 832328
+      },
+      {
+        "name": "setup_broken_sword_4_the_angel_of_death_1.1a_(spanish)_(24519)-1.bin",
+        "url": "/downloads/broken_sword_4/es1installer1",
+        "version": "1.1a",
+        "platform": "windows",
+        "language": "espa\u00f1ol",
+        "size": 1682207489
+      },
+      {
+        "name": "setup_broken_sword_4_the_angel_of_death_1.1a_(french)_(24519).exe",
+        "url": "/downloads/broken_sword_4/fr1installer0",
+        "version": "1.1a",
+        "platform": "windows",
+        "language": "fran\u00e7ais",
+        "size": 832296
+      },
+      {
+        "name": "setup_broken_sword_4_the_angel_of_death_1.1a_(french)_(24519)-1.bin",
+        "url": "/downloads/broken_sword_4/fr1installer1",
+        "version": "1.1a",
+        "platform": "windows",
+        "language": "fran\u00e7ais",
+        "size": 1669364595
+      },
+      {
+        "name": "setup_broken_sword_4_the_angel_of_death_1.1a_(italian)_(24519).exe",
+        "url": "/downloads/broken_sword_4/it1installer0",
+        "version": "1.1a",
+        "platform": "windows",
+        "language": "italiano",
+        "size": 832520
+      },
+      {
+        "name": "setup_broken_sword_4_the_angel_of_death_1.1a_(italian)_(24519)-1.bin",
+        "url": "/downloads/broken_sword_4/it1installer1",
+        "version": "1.1a",
+        "platform": "windows",
+        "language": "italiano",
+        "size": 1682185710
+      },
+      {
+        "name": "setup_broken_sword_4_the_angel_of_death_1.1a_(polish)_(24519).exe",
+        "url": "/downloads/broken_sword_4/pl1installer0",
+        "version": "1.1a",
+        "platform": "windows",
+        "language": "polski",
+        "size": 829160
+      },
+      {
+        "name": "setup_broken_sword_4_the_angel_of_death_1.1a_(polish)_(24519)-1.bin",
+        "url": "/downloads/broken_sword_4/pl1installer1",
+        "version": "1.1a",
+        "platform": "windows",
+        "language": "polski",
+        "size": 1687957968
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207659013",
+    "title": "Treasure Adventure Game",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_treasure_adventure_game_1.0_(22308).exe",
+        "url": "/downloads/treasure_adventure_game/en1installer0",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 115280144
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207659061",
+    "title": "Worlds of Ultima\u2122 : The Savage Empire",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_worlds_of_ultima_-_the_savage_empire_1.6_cs_(28045).exe",
+        "url": "/downloads/worlds_of_ultima_the_savage_empire/en1installer0",
+        "version": "1.6 CS",
+        "platform": "windows",
+        "language": "English",
+        "size": 50296992
+      },
+      {
+        "name": "worlds_of_ultima____the_savage_empire_enUS_1_6_38768.pkg",
+        "url": "/downloads/worlds_of_ultima_the_savage_empire/en2installer0",
+        "version": "1.6",
+        "platform": "mac",
+        "language": "English",
+        "size": 46870500
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207659062",
+    "title": "Ultima\u2122  Worlds of Adventure 2: Martian Dreams",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_ultima_worlds_of_adventure_2_-_martian_dreams_1.0_cs_(28044).exe",
+        "url": "/downloads/ultima_worlds_of_adventure_2_martian_dreams/en1installer0",
+        "version": "1.0 CS",
+        "platform": "windows",
+        "language": "English",
+        "size": 36106624
+      },
+      {
+        "name": "ultima___worlds_of_adventure_2__martian_dreams_enUS_1_0_38751.pkg",
+        "url": "/downloads/ultima_worlds_of_adventure_2_martian_dreams/en2installer0",
+        "version": "1.0",
+        "platform": "mac",
+        "language": "English",
+        "size": 31991843
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207659089",
+    "title": "Tomb Raider: The Angel of Darkness",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_tomb_raider_-_the_angel_of_darkness_gog.1.0_(75109).exe",
+        "url": "/downloads/tomb_raider_the_angel_of_darkness/en1installer0",
+        "version": "GOG.1.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 802344
+      },
+      {
+        "name": "setup_tomb_raider_-_the_angel_of_darkness_gog.1.0_(75109)-1.bin",
+        "url": "/downloads/tomb_raider_the_angel_of_darkness/en1installer1",
+        "version": "GOG.1.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 1407914398
+      },
+      {
+        "name": "setup_tomb_raider_-_the_angel_of_darkness_gog.1.0_(german)_(75109).exe",
+        "url": "/downloads/tomb_raider_the_angel_of_darkness/de1installer0",
+        "version": "GOG.1.0",
+        "platform": "windows",
+        "language": "Deutsch",
+        "size": 802288
+      },
+      {
+        "name": "setup_tomb_raider_-_the_angel_of_darkness_gog.1.0_(german)_(75109)-1.bin",
+        "url": "/downloads/tomb_raider_the_angel_of_darkness/de1installer1",
+        "version": "GOG.1.0",
+        "platform": "windows",
+        "language": "Deutsch",
+        "size": 1405925266
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207659102",
+    "title": "FTL: Advanced Edition",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_ftl_advanced_edition_1.6.13b_(36400).exe",
+        "url": "/downloads/faster_than_light/en1installer0",
+        "version": "1.6.13b",
+        "platform": "windows",
+        "language": "English",
+        "size": 237135208
+      },
+      {
+        "name": "ftl__advanced_edition_enUS_1_6_13_36104.pkg",
+        "url": "/downloads/faster_than_light/en2installer0",
+        "version": "1.6.13",
+        "platform": "mac",
+        "language": "English",
+        "size": 209253961
+      },
+      {
+        "name": "ftl_advanced_edition_1_6_12_2_35269.sh",
+        "url": "/downloads/faster_than_light/en3installer0",
+        "version": "1.6.12 (2)",
+        "platform": "linux",
+        "language": "English",
+        "size": 246732960
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207659142",
+    "title": "Shadow Warrior Classic Complete",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_shadow_warrior_complete_2.0.0.7.exe",
+        "url": "/downloads/shadow_warrior_complete/en1installer0",
+        "version": null,
+        "platform": "windows",
+        "language": "English",
+        "size": 241578288
+      },
+      {
+        "name": "shadow_warrior_complete_1.0.0.8.dmg",
+        "url": "/downloads/shadow_warrior_complete/en2installer0",
+        "version": null,
+        "platform": "mac",
+        "language": "English",
+        "size": 902794139
+      },
+      {
+        "name": "gog_shadow_warrior_classic_complete_2.0.0.4.sh",
+        "url": "/downloads/shadow_warrior_complete/en3installer1",
+        "version": null,
+        "platform": "linux",
+        "language": "English",
+        "size": 257665025
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207659221",
+    "title": "Eschalon: Book I",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_eschalon_-_book_i_1.06_(18470).exe",
+        "url": "/downloads/eschalon_book_i/en1installer0",
+        "version": "1.06",
+        "platform": "windows",
+        "language": "English",
+        "size": 110107984
+      },
+      {
+        "name": "eschalon_book_1_1.0.0.2.dmg",
+        "url": "/downloads/eschalon_book_i/en2installer1",
+        "version": null,
+        "platform": "mac",
+        "language": "English",
+        "size": 113685509
+      },
+      {
+        "name": "gog_eschalon_book_i_2.0.0.5.sh",
+        "url": "/downloads/eschalon_book_i/en3installer2",
+        "version": null,
+        "platform": "linux",
+        "language": "English",
+        "size": 109654706
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207659259",
+    "title": "Amnesia: The Dark Descent",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_amnesia_-_the_dark_descent_1.41b_(41677).exe",
+        "url": "/downloads/amnesia_the_dark_descent/en1installer0",
+        "version": "1.41b",
+        "platform": "windows",
+        "language": "English",
+        "size": 1376251944
+      },
+      {
+        "name": "patch_amnesia_the_dark_descent_1.41_(24278)_to_1.41_(A)_(40593).exe",
+        "url": "/downloads/amnesia_the_dark_descent/en1patch0",
+        "version": "1.41 (A)",
+        "platform": "windows",
+        "language": "English",
+        "size": 12224104
+      },
+      {
+        "name": "amnesia__the_dark_descent_enUS_1_41_gog_24301.pkg",
+        "url": "/downloads/amnesia_the_dark_descent/en2installer0",
+        "version": "1.41 GOG",
+        "platform": "mac",
+        "language": "English",
+        "size": 1344824912
+      },
+      {
+        "name": "amnesia_the_dark_descent_1_41_a_40599.sh",
+        "url": "/downloads/amnesia_the_dark_descent/en3installer0",
+        "version": "1.41 (A)",
+        "platform": "linux",
+        "language": "English",
+        "size": 1374004520
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207659333",
+    "title": "The Lords of Midnight",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_the_lords_of_midnight_2.0.8_50_(72083).exe",
+        "url": "/downloads/the_lords_of_midnight/en1installer0",
+        "version": "2.0.8_50",
+        "platform": "windows",
+        "language": "English",
+        "size": 28892736
+      },
+      {
+        "name": "the_lords_of_midnight_enUS_2_0_8_50_.pkg",
+        "url": "/downloads/the_lords_of_midnight/en2installer0",
+        "version": "2.0.8_50",
+        "platform": "mac",
+        "language": "English",
+        "size": 22218250
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207659443",
+    "title": "Amnesia: A Machine For Pigs",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_amnesia_-_a_machine_for_pigs_1.0_(20583).exe",
+        "url": "/downloads/amnesia_a_machine_for_pigs/en1installer0",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 3502656
+      },
+      {
+        "name": "setup_amnesia_-_a_machine_for_pigs_1.0_(20583)-1.bin",
+        "url": "/downloads/amnesia_a_machine_for_pigs/en1installer1",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 2614010599
+      },
+      {
+        "name": "amnesia_a_machine_for_pigs_2.0.0.8.dmg",
+        "url": "/downloads/amnesia_a_machine_for_pigs/en2installer2",
+        "version": "(gog-8)",
+        "platform": "mac",
+        "language": "English",
+        "size": 2670977764
+      },
+      {
+        "name": "amnesia_a_machine_for_pigs_1_0_3_3g_38792.sh",
+        "url": "/downloads/amnesia_a_machine_for_pigs/en3installer0",
+        "version": "1.0.3-3g",
+        "platform": "linux",
+        "language": "English",
+        "size": 2699814460
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207659693",
+    "title": "Stargunner",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_stargunner_1.0b_(28045).exe",
+        "url": "/downloads/stargunner/en1installer0",
+        "version": "1.0b",
+        "platform": "windows",
+        "language": "English",
+        "size": 54797280
+      },
+      {
+        "name": "stargunner_1.0.0.3.dmg",
+        "url": "/downloads/stargunner/en2installer1",
+        "version": null,
+        "platform": "mac",
+        "language": "English",
+        "size": 50606470
+      },
+      {
+        "name": "gog_stargunner_2.0.0.10.sh",
+        "url": "/downloads/stargunner/en3installer2",
+        "version": null,
+        "platform": "linux",
+        "language": "English",
+        "size": 49033565
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207659723",
+    "title": "Flight of the Amazon Queen",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_flight_of_the_amazon_queen_1.0_(20270).exe",
+        "url": "/downloads/flight_of_the_amazon_queen/en1installer0",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 140413224
+      },
+      {
+        "name": "flight_of_the_amazon_queen_enUS_gog_3_35048.pkg",
+        "url": "/downloads/flight_of_the_amazon_queen/en2installer0",
+        "version": "gog-3",
+        "platform": "mac",
+        "language": "English",
+        "size": 138446408
+      },
+      {
+        "name": "setup_flight_of_the_amazon_queen_1.0_(german)_(20270).exe",
+        "url": "/downloads/flight_of_the_amazon_queen/de1installer0",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "Deutsch",
+        "size": 103913344
+      },
+      {
+        "name": "flight_of_the_amazon_queen_deDE_gog_3_35048.pkg",
+        "url": "/downloads/flight_of_the_amazon_queen/de2installer0",
+        "version": "gog-3",
+        "platform": "mac",
+        "language": "Deutsch",
+        "size": 101942854
+      },
+      {
+        "name": "setup_flight_of_the_amazon_queen_1.0_(french)_(20270).exe",
+        "url": "/downloads/flight_of_the_amazon_queen/fr1installer0",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "fran\u00e7ais",
+        "size": 92406328
+      },
+      {
+        "name": "flight_of_the_amazon_queen_frFR_gog_3_35048.pkg",
+        "url": "/downloads/flight_of_the_amazon_queen/fr2installer0",
+        "version": "gog-3",
+        "platform": "mac",
+        "language": "fran\u00e7ais",
+        "size": 90437189
+      },
+      {
+        "name": "setup_flight_of_the_amazon_queen_1.0_(italian)_(20270).exe",
+        "url": "/downloads/flight_of_the_amazon_queen/it1installer0",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "italiano",
+        "size": 93031304
+      },
+      {
+        "name": "flight_of_the_amazon_queen_itIT_gog_3_35048.pkg",
+        "url": "/downloads/flight_of_the_amazon_queen/it2installer0",
+        "version": "gog-3",
+        "platform": "mac",
+        "language": "italiano",
+        "size": 91055685
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207660203",
+    "title": "Sang-Froid: Tales of Werewolves",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_sang_froid_-_tales_of_werewolves_1.13_(21492).exe",
+        "url": "/downloads/sangfroid_tales_of_werewolves/en1installer0",
+        "version": "1.13",
+        "platform": "windows",
+        "language": "English",
+        "size": 1534920
+      },
+      {
+        "name": "setup_sang_froid_-_tales_of_werewolves_1.13_(21492)-1.bin",
+        "url": "/downloads/sangfroid_tales_of_werewolves/en1installer1",
+        "version": "1.13",
+        "platform": "windows",
+        "language": "English",
+        "size": 3415330095
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207660413",
+    "title": "Shadowrun Returns",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_shadowrun_returns_1.2.7_(a)_(10017).exe",
+        "url": "/downloads/shadowrun_returns/en1installer0",
+        "version": "1.2.7 (A)",
+        "platform": "windows",
+        "language": "English",
+        "size": 1819296
+      },
+      {
+        "name": "setup_shadowrun_returns_1.2.7_(a)_(10017)-1.bin",
+        "url": "/downloads/shadowrun_returns/en1installer1",
+        "version": "1.2.7 (A)",
+        "platform": "windows",
+        "language": "English",
+        "size": 941633446
+      },
+      {
+        "name": "shadowrun_returns_2.0.0.17.pkg",
+        "url": "/downloads/shadowrun_returns/en2installer9",
+        "version": "1.2.7 (gog-17)",
+        "platform": "mac",
+        "language": "English",
+        "size": 1005102573
+      },
+      {
+        "name": "gog_shadowrun_returns_2.0.0.7.sh",
+        "url": "/downloads/shadowrun_returns/en3installer3",
+        "version": "1.2.7",
+        "platform": "linux",
+        "language": "English",
+        "size": 1003776418
+      },
+      {
+        "name": "setup_shadowrun_returns_2.3.0.12.exe",
+        "url": "/downloads/shadowrun_returns/de1installer3",
+        "version": "1.2.7 (gog-12)",
+        "platform": "windows",
+        "language": "Deutsch",
+        "size": 856138720
+      },
+      {
+        "name": "shadowrun_returns_2.0.0.17.pkg",
+        "url": "/downloads/shadowrun_returns/de2installer9",
+        "version": "1.2.7 (gog-17)",
+        "platform": "mac",
+        "language": "Deutsch",
+        "size": 1005102573
+      },
+      {
+        "name": "gog_shadowrun_returns_2.0.0.6.sh",
+        "url": "/downloads/shadowrun_returns/de3installer2",
+        "version": "1.2.7 (gog-6)",
+        "platform": "linux",
+        "language": "Deutsch",
+        "size": 1003775214
+      },
+      {
+        "name": "setup_shadowrun_returns_2.3.0.12.exe",
+        "url": "/downloads/shadowrun_returns/es1installer3",
+        "version": "1.2.7 (gog-12)",
+        "platform": "windows",
+        "language": "espa\u00f1ol",
+        "size": 856138720
+      },
+      {
+        "name": "shadowrun_returns_2.0.0.17.pkg",
+        "url": "/downloads/shadowrun_returns/es2installer9",
+        "version": "1.2.7 (gog-17)",
+        "platform": "mac",
+        "language": "espa\u00f1ol",
+        "size": 1005102573
+      },
+      {
+        "name": "gog_shadowrun_returns_2.0.0.6.sh",
+        "url": "/downloads/shadowrun_returns/es3installer2",
+        "version": "1.2.7 (gog-6)",
+        "platform": "linux",
+        "language": "espa\u00f1ol",
+        "size": 1003775214
+      },
+      {
+        "name": "setup_shadowrun_returns_2.3.0.12.exe",
+        "url": "/downloads/shadowrun_returns/fr1installer3",
+        "version": "1.2.7 (gog-12)",
+        "platform": "windows",
+        "language": "fran\u00e7ais",
+        "size": 856138720
+      },
+      {
+        "name": "shadowrun_returns_2.0.0.17.pkg",
+        "url": "/downloads/shadowrun_returns/fr2installer9",
+        "version": "1.2.7 (gog-17)",
+        "platform": "mac",
+        "language": "fran\u00e7ais",
+        "size": 1005102573
+      },
+      {
+        "name": "gog_shadowrun_returns_2.0.0.6.sh",
+        "url": "/downloads/shadowrun_returns/fr3installer2",
+        "version": "1.2.7 (gog-6)",
+        "platform": "linux",
+        "language": "fran\u00e7ais",
+        "size": 1003775214
+      },
+      {
+        "name": "setup_shadowrun_returns_2.3.0.12.exe",
+        "url": "/downloads/shadowrun_returns/it1installer3",
+        "version": "1.2.7 (gog-12)",
+        "platform": "windows",
+        "language": "italiano",
+        "size": 856138720
+      },
+      {
+        "name": "shadowrun_returns_2.0.0.17.pkg",
+        "url": "/downloads/shadowrun_returns/it2installer9",
+        "version": "1.2.7 (gog-17)",
+        "platform": "mac",
+        "language": "italiano",
+        "size": 1005102573
+      },
+      {
+        "name": "gog_shadowrun_returns_2.0.0.6.sh",
+        "url": "/downloads/shadowrun_returns/it3installer2",
+        "version": "1.2.7 (gog-6)",
+        "platform": "linux",
+        "language": "italiano",
+        "size": 1003775214
+      },
+      {
+        "name": "setup_shadowrun_returns_2.3.0.12.exe",
+        "url": "/downloads/shadowrun_returns/ru1installer3",
+        "version": "1.2.7 (gog-12)",
+        "platform": "windows",
+        "language": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439",
+        "size": 856138720
+      },
+      {
+        "name": "shadowrun_returns_2.0.0.17.pkg",
+        "url": "/downloads/shadowrun_returns/ru2installer9",
+        "version": "1.2.7 (gog-17)",
+        "platform": "mac",
+        "language": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439",
+        "size": 1005102573
+      },
+      {
+        "name": "gog_shadowrun_returns_2.0.0.6.sh",
+        "url": "/downloads/shadowrun_returns/ru3installer2",
+        "version": "1.2.7 (gog-6)",
+        "platform": "linux",
+        "language": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439",
+        "size": 1003775214
+      },
+      {
+        "name": "setup_shadowrun_returns_2.3.0.12.exe",
+        "url": "/downloads/shadowrun_returns/cn1installer3",
+        "version": "1.2.7 (gog-12)",
+        "platform": "windows",
+        "language": "\u4e2d\u6587(\u7b80\u4f53)",
+        "size": 856138720
+      },
+      {
+        "name": "shadowrun_returns_2.0.0.17.pkg",
+        "url": "/downloads/shadowrun_returns/cn2installer9",
+        "version": "1.2.7 (gog-17)",
+        "platform": "mac",
+        "language": "\u4e2d\u6587(\u7b80\u4f53)",
+        "size": 1005102573
+      },
+      {
+        "name": "gog_shadowrun_returns_2.0.0.6.sh",
+        "url": "/downloads/shadowrun_returns/cn3installer2",
+        "version": "1.2.7 (gog-6)",
+        "platform": "linux",
+        "language": "\u4e2d\u6587(\u7b80\u4f53)",
+        "size": 1003775214
+      }
+    ],
+    "dlcs": [
+      {
+        "title": "Shadowrun Returns Deluxe DLC",
+        "cd_key": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "1207660693",
+    "title": "Doomdark's Revenge",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_doomdarks_revenge_2.0.8_50_(72083).exe",
+        "url": "/downloads/doomdarks_revenge/en1installer0",
+        "version": "2.0.8_50",
+        "platform": "windows",
+        "language": "English",
+        "size": 26946144
+      },
+      {
+        "name": "doomdark_s_revenge_enUS_2_0_8_50_.pkg",
+        "url": "/downloads/doomdarks_revenge/en2installer0",
+        "version": "2.0.8_50",
+        "platform": "mac",
+        "language": "English",
+        "size": 20538890
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207660783",
+    "title": "Banished",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_banished_64_1.0.7_(14938).exe",
+        "url": "/downloads/banished/en1installer0",
+        "version": "1.0.7",
+        "platform": "windows",
+        "language": "English",
+        "size": 128477224
+      },
+      {
+        "name": "setup_banished_32_1.0.7_(14938).exe",
+        "url": "/downloads/banished/en1patch1",
+        "version": "1.0.7",
+        "platform": "windows",
+        "language": "English",
+        "size": 128215016
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207660913",
+    "title": "Shadowrun: Dragonfall - Director's Cut",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_shadowrun_dragonfall_2.0.9_(9992).exe",
+        "url": "/downloads/shadowrun_dragonfall_directors_cut/en1installer0",
+        "version": "2.0.9",
+        "platform": "windows",
+        "language": "English",
+        "size": 2614592
+      },
+      {
+        "name": "setup_shadowrun_dragonfall_2.0.9_(9992)-1.bin",
+        "url": "/downloads/shadowrun_dragonfall_directors_cut/en1installer1",
+        "version": "2.0.9",
+        "platform": "windows",
+        "language": "English",
+        "size": 1649123691
+      },
+      {
+        "name": "shadowrun_dragonfall_dc_2.6.0.18.dmg",
+        "url": "/downloads/shadowrun_dragonfall_directors_cut/en2installer5",
+        "version": "2.0.9 (gog-18)",
+        "platform": "mac",
+        "language": "English",
+        "size": 1974061715
+      },
+      {
+        "name": "gog_shadowrun_dragonfall_director_s_cut_2.6.0.11.sh",
+        "url": "/downloads/shadowrun_dragonfall_directors_cut/en3installer2",
+        "version": "(gog-11)",
+        "platform": "linux",
+        "language": "English",
+        "size": 1998214250
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207663463",
+    "title": "Tomb Raider 1",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_tomb_raider_1_20180105_(17652).exe",
+        "url": "/downloads/tomb_raider_1/en1installer0",
+        "version": "20180105",
+        "platform": "windows",
+        "language": "English",
+        "size": 254769280
+      },
+      {
+        "name": "setup_tomb_raider_1_german_20180105_(17652).exe",
+        "url": "/downloads/tomb_raider_1/de1installer0",
+        "version": "20180105",
+        "platform": "windows",
+        "language": "Deutsch",
+        "size": 236280656
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207663483",
+    "title": "Tomb Raider 2",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_tomb_raider_2_20180108_(17720).exe",
+        "url": "/downloads/tomb_raider_2/en1installer0",
+        "version": "20180108",
+        "platform": "windows",
+        "language": "English",
+        "size": 258553264
+      },
+      {
+        "name": "setup_tomb_raider_2_german_20180108_(17720).exe",
+        "url": "/downloads/tomb_raider_2/de1installer0",
+        "version": "20180108",
+        "platform": "windows",
+        "language": "Deutsch",
+        "size": 256170656
+      },
+      {
+        "name": "setup_tomb_raider_2_french_20180108_(17720).exe",
+        "url": "/downloads/tomb_raider_2/fr1installer0",
+        "version": "20180108",
+        "platform": "windows",
+        "language": "fran\u00e7ais",
+        "size": 298713744
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207663493",
+    "title": "Tomb Raider 3",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_tomb_raider_3_20171016_(15705).exe",
+        "url": "/downloads/tomb_raider_3/en1installer0",
+        "version": "20171016",
+        "platform": "windows",
+        "language": "English",
+        "size": 326262912
+      },
+      {
+        "name": "setup_tomb_raider_3_german_20171016_(15705).exe",
+        "url": "/downloads/tomb_raider_3/de1installer0",
+        "version": "20171016",
+        "platform": "windows",
+        "language": "Deutsch",
+        "size": 337189344
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207663513",
+    "title": "Tomb Raider - The Last Revelation",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_tomb_raider_-_the_last_revelation_20220725_(75085).exe",
+        "url": "/downloads/tomb_raider_the_last_revelation/en1installer0",
+        "version": "20220725",
+        "platform": "windows",
+        "language": "English",
+        "size": 888576
+      },
+      {
+        "name": "setup_tomb_raider_-_the_last_revelation_20220725_(75085)-1.bin",
+        "url": "/downloads/tomb_raider_the_last_revelation/en1installer1",
+        "version": "20220725",
+        "platform": "windows",
+        "language": "English",
+        "size": 733711713
+      },
+      {
+        "name": "setup_tomb_raider_-_the_last_revelation_20220725_(german)_(75085).exe",
+        "url": "/downloads/tomb_raider_the_last_revelation/de1installer0",
+        "version": "20220725",
+        "platform": "windows",
+        "language": "Deutsch",
+        "size": 903616
+      },
+      {
+        "name": "setup_tomb_raider_-_the_last_revelation_20220725_(german)_(75085)-1.bin",
+        "url": "/downloads/tomb_raider_the_last_revelation/de1installer1",
+        "version": "20220725",
+        "platform": "windows",
+        "language": "Deutsch",
+        "size": 741120343
+      },
+      {
+        "name": "setup_tomb_raider_-_the_last_revelation_20220725_(french)_(75085).exe",
+        "url": "/downloads/tomb_raider_the_last_revelation/fr1installer0",
+        "version": "20220725",
+        "platform": "windows",
+        "language": "fran\u00e7ais",
+        "size": 889128
+      },
+      {
+        "name": "setup_tomb_raider_-_the_last_revelation_20220725_(french)_(75085)-1.bin",
+        "url": "/downloads/tomb_raider_the_last_revelation/fr1installer1",
+        "version": "20220725",
+        "platform": "windows",
+        "language": "fran\u00e7ais",
+        "size": 737756518
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207663523",
+    "title": "Tomb Raider Chronicles",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_tomb_raider_chronicles_20220725_(75085).exe",
+        "url": "/downloads/tomb_raider_chronicles/en1installer0",
+        "version": "20220725",
+        "platform": "windows",
+        "language": "English",
+        "size": 466438552
+      },
+      {
+        "name": "setup_tomb_raider_chronicles_20220725_(german)_(75085).exe",
+        "url": "/downloads/tomb_raider_chronicles/de1installer0",
+        "version": "20220725",
+        "platform": "windows",
+        "language": "Deutsch",
+        "size": 467064112
+      },
+      {
+        "name": "setup_tomb_raider_chronicles_20220725_(french)_(75085).exe",
+        "url": "/downloads/tomb_raider_chronicles/fr1installer0",
+        "version": "20220725",
+        "platform": "windows",
+        "language": "fran\u00e7ais",
+        "size": 464400472
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207664803",
+    "title": "Xenonauts",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_xenonauts_2.3.0.13.exe",
+        "url": "/downloads/xenonauts/en1installer8",
+        "version": "1.65",
+        "platform": "windows",
+        "language": "English",
+        "size": 34032256
+      },
+      {
+        "name": "setup_xenonauts_2.3.0.13-1.bin",
+        "url": "/downloads/xenonauts/en1installer9",
+        "version": "1.65",
+        "platform": "windows",
+        "language": "English",
+        "size": 2658032836
+      },
+      {
+        "name": "patch_xenonauts_2.2.0.12.exe",
+        "url": "/downloads/xenonauts/en1patch2",
+        "version": "(gog-12)",
+        "platform": "windows",
+        "language": "English",
+        "size": 215375992
+      },
+      {
+        "name": "patch_xenonauts_2.3.0.13.exe",
+        "url": "/downloads/xenonauts/en1patch3",
+        "version": "(gog-13)",
+        "platform": "windows",
+        "language": "English",
+        "size": 40388688
+      },
+      {
+        "name": "xenonauts_enUS_1_65m_21354.pkg",
+        "url": "/downloads/xenonauts/en2installer0",
+        "version": "1.65M",
+        "platform": "mac",
+        "language": "English",
+        "size": 2442106355
+      },
+      {
+        "name": "xenonauts_en_1_65_21328.sh",
+        "url": "/downloads/xenonauts/en3installer0",
+        "version": "1.65",
+        "platform": "linux",
+        "language": "English",
+        "size": 2444144422
+      },
+      {
+        "name": "patch_xenonauts_2.0.1.3.sh",
+        "url": "/downloads/xenonauts/en3patch1",
+        "version": "1.61 (gog-2) -> 1.63 (gog-3)",
+        "platform": "linux",
+        "language": "English",
+        "size": 173487869
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207665783",
+    "title": "Wasteland 2",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_wasteland_2_patch_6_(18584).exe",
+        "url": "/downloads/wasteland_2_kickstarter/en1installer0",
+        "version": "Patch 6",
+        "platform": "windows",
+        "language": "English",
+        "size": 746080
+      },
+      {
+        "name": "setup_wasteland_2_patch_6_(18584)-1.bin",
+        "url": "/downloads/wasteland_2_kickstarter/en1installer1",
+        "version": "Patch 6",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294228478
+      },
+      {
+        "name": "setup_wasteland_2_patch_6_(18584)-2.bin",
+        "url": "/downloads/wasteland_2_kickstarter/en1installer2",
+        "version": "Patch 6",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_wasteland_2_patch_6_(18584)-3.bin",
+        "url": "/downloads/wasteland_2_kickstarter/en1installer3",
+        "version": "Patch 6",
+        "platform": "windows",
+        "language": "English",
+        "size": 859492916
+      },
+      {
+        "name": "wasteland2_2.7.0.13.dmg",
+        "url": "/downloads/wasteland_2_kickstarter/en2installer3",
+        "version": "gog-13",
+        "platform": "mac",
+        "language": "English",
+        "size": 11002246313
+      },
+      {
+        "name": "patch_wasteland2_2.5.0_to_2.6.0.pkg",
+        "url": "/downloads/wasteland_2_kickstarter/en2patch1",
+        "version": "",
+        "platform": "mac",
+        "language": "English",
+        "size": 507926099
+      },
+      {
+        "name": "patch_wasteland2_2.6.0_to_2.7.0.pkg",
+        "url": "/downloads/wasteland_2_kickstarter/en2patch2",
+        "version": "",
+        "platform": "mac",
+        "language": "English",
+        "size": 4605520
+      },
+      {
+        "name": "gog_wasteland_2_2.9.0.14.sh",
+        "url": "/downloads/wasteland_2_kickstarter/en3installer1",
+        "version": "gog-14",
+        "platform": "linux",
+        "language": "English",
+        "size": 11012677169
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207666073",
+    "title": "Akalabeth: World of Doom",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_akalabeth_world_of_doom_1.02_cs_(77607).exe",
+        "url": "/downloads/akalabeth_world_of_doom/en1installer0",
+        "version": "1.02 CS",
+        "platform": "windows",
+        "language": "English",
+        "size": 16230072
+      },
+      {
+        "name": "akalabeth__world_of_doom_enUS_1_0_30902.pkg",
+        "url": "/downloads/akalabeth_world_of_doom/en2installer0",
+        "version": "1.0",
+        "platform": "mac",
+        "language": "English",
+        "size": 12752451
+      },
+      {
+        "name": "gog_akalabeth_world_of_doom_2.0.0.3.sh",
+        "url": "/downloads/akalabeth_world_of_doom/en3installer1",
+        "version": null,
+        "platform": "linux",
+        "language": "English",
+        "size": 7569960
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207666253",
+    "title": "The Secret of Monkey Island\u2122: Special Edition",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_the_secret_of_monkey_islandtm_special_edition_1.0_(18587).exe",
+        "url": "/downloads/the_secret_of_monkey_island_special_edition/en1installer0",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 1513178168
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207666353",
+    "title": "Baldur's Gate: Enhanced Edition",
+    "cd_key": "http://www.gog.com/redeem/8YVF554668C17725C7",
+    "files": [
+      {
+        "name": "setup_baldurs_gate_enhanced_edition_2.6.6.0_(64bit)_(46870).exe",
+        "url": "/downloads/baldurs_gate_enhanced_edition/en1installer0",
+        "version": "2.6.6.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 1111064
+      },
+      {
+        "name": "setup_baldurs_gate_enhanced_edition_2.6.6.0_(64bit)_(46870)-1.bin",
+        "url": "/downloads/baldurs_gate_enhanced_edition/en1installer1",
+        "version": "2.6.6.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 2919289626
+      },
+      {
+        "name": "patch_baldurs_gate_enhanced_edition_2.6.5.0_(45309)_to_2.6.6.0_(46870).exe",
+        "url": "/downloads/baldurs_gate_enhanced_edition/en1patch0",
+        "version": "2.6.6.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 5845136
+      },
+      {
+        "name": "patch_baldurs_gate_enhanced_edition_2.5_(23121)_to_2.6.5.0_(45309).exe",
+        "url": "/downloads/baldurs_gate_enhanced_edition/en1patch1",
+        "version": "2.6.5.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 83269376
+      },
+      {
+        "name": "baldur_s_gate__enhanced_edition_enUS_2_6_6_0_46870.pkg",
+        "url": "/downloads/baldurs_gate_enhanced_edition/en2installer0",
+        "version": "2.6.6.0",
+        "platform": "mac",
+        "language": "English",
+        "size": 2907887031
+      },
+      {
+        "name": "baldur_s_gate_enhanced_edition_2_6_6_0_47291.sh",
+        "url": "/downloads/baldurs_gate_enhanced_edition/en3installer0",
+        "version": "2.6.6.0",
+        "platform": "linux",
+        "language": "English",
+        "size": 2905865862
+      },
+      {
+        "name": "patch_baldur_s_gate_enhanced_edition_2.1.2.4.sh",
+        "url": "/downloads/baldurs_gate_enhanced_edition/en3patch1",
+        "version": "",
+        "platform": "linux",
+        "language": "English",
+        "size": 6124443
+      },
+      {
+        "name": "patch_baldur_s_gate_enhanced_edition_2.2.3.5.sh",
+        "url": "/downloads/baldurs_gate_enhanced_edition/en3patch2",
+        "version": "",
+        "platform": "linux",
+        "language": "English",
+        "size": 225126625
+      },
+      {
+        "name": "patch_baldur_s_gate_enhanced_edition_2.3.4.6.sh",
+        "url": "/downloads/baldurs_gate_enhanced_edition/en3patch3",
+        "version": "",
+        "platform": "linux",
+        "language": "English",
+        "size": 55914788
+      },
+      {
+        "name": "patch_baldur_s_gate_enhanced_edition_2.4.5.7.sh",
+        "url": "/downloads/baldurs_gate_enhanced_edition/en3patch4",
+        "version": "",
+        "platform": "linux",
+        "language": "English",
+        "size": 1675427
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1207666373",
+    "title": "Baldur's Gate II: Enhanced Edition",
+    "cd_key": "http://www.gog.com/redeem/RJ7AC22F614F9FD0B4",
+    "files": [
+      {
+        "name": "setup_baldurs_gate_ii_enhanced_edition_2.6.6.0_(64bit)_(46870).exe",
+        "url": "/downloads/baldurs_gate_2_enhanced_edition/en1installer0",
+        "version": "2.6.6.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 1111744
+      },
+      {
+        "name": "setup_baldurs_gate_ii_enhanced_edition_2.6.6.0_(64bit)_(46870)-1.bin",
+        "url": "/downloads/baldurs_gate_2_enhanced_edition/en1installer1",
+        "version": "2.6.6.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 3386290639
+      },
+      {
+        "name": "patch_baldurs_gate_ii_enhanced_edition_2.6.5.0_(45309)_to_2.6.6.0_(46870).exe",
+        "url": "/downloads/baldurs_gate_2_enhanced_edition/en1patch0",
+        "version": "2.6.6.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 8018472
+      },
+      {
+        "name": "patch_baldurs_gate_ii_enhanced_edition_2.5.16.6_(21849)_to_2.6.5.0_(45309).exe",
+        "url": "/downloads/baldurs_gate_2_enhanced_edition/en1patch1",
+        "version": "2.6.5.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 421564320
+      },
+      {
+        "name": "baldur_s_gate_ii__enhanced_edition_enUS_2_6_6_0_46870.pkg",
+        "url": "/downloads/baldurs_gate_2_enhanced_edition/en2installer0",
+        "version": "2.6.6.0",
+        "platform": "mac",
+        "language": "English",
+        "size": 3363153563
+      },
+      {
+        "name": "baldur_s_gate_ii_enhanced_edition_2_6_6_0_47292.sh",
+        "url": "/downloads/baldurs_gate_2_enhanced_edition/en3installer0",
+        "version": "2.6.6.0",
+        "platform": "linux",
+        "language": "English",
+        "size": 3360219867
+      },
+      {
+        "name": "patch_baldur_s_gate_2_enhanced_edition_2.1.2.6.sh",
+        "url": "/downloads/baldurs_gate_2_enhanced_edition/en3patch2",
+        "version": "",
+        "platform": "linux",
+        "language": "English",
+        "size": 30802538
+      },
+      {
+        "name": "patch_baldur_s_gate_2_enhanced_edition_2.3.4.8.sh",
+        "url": "/downloads/baldurs_gate_2_enhanced_edition/en3patch4",
+        "version": "",
+        "platform": "linux",
+        "language": "English",
+        "size": 1576958
+      },
+      {
+        "name": "patch_baldur_s_gate_2_enhanced_edition_2.4.5.9.sh",
+        "url": "/downloads/baldurs_gate_2_enhanced_edition/en3patch5",
+        "version": "",
+        "platform": "linux",
+        "language": "English",
+        "size": 22039332
+      },
+      {
+        "name": "patch_baldur_s_gate_2_enhanced_edition_2.5.6.10.sh",
+        "url": "/downloads/baldurs_gate_2_enhanced_edition/en3patch6",
+        "version": "",
+        "platform": "linux",
+        "language": "English",
+        "size": 1675753
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1212177362",
+    "title": "Builders of Egypt: Prologue",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_builders_of_egypt_prologue_0.15043a_(64bit)_(36623).exe",
+        "url": "/downloads/builders_of_egypt_prologue/en1installer0",
+        "version": "0.15043A",
+        "platform": "windows",
+        "language": "English",
+        "size": 805216
+      },
+      {
+        "name": "setup_builders_of_egypt_prologue_0.15043a_(64bit)_(36623)-1.bin",
+        "url": "/downloads/builders_of_egypt_prologue/en1installer1",
+        "version": "0.15043A",
+        "platform": "windows",
+        "language": "English",
+        "size": 2402050582
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1238653230",
+    "title": "Factorio",
+    "cd_key": "x7baylq81h9v05vp9w0abcimm9t9r0sx",
+    "files": [
+      {
+        "name": "setup_factorio_2.0.15_(77560).exe",
+        "url": "/downloads/factorio/en1installer0",
+        "version": "2.0.15",
+        "platform": "windows",
+        "language": "English",
+        "size": 1575116752
+      },
+      {
+        "name": "factorio_enUS_2_0_15_.pkg",
+        "url": "/downloads/factorio/en2installer0",
+        "version": "2.0.15",
+        "platform": "mac",
+        "language": "English",
+        "size": 1618455437
+      },
+      {
+        "name": "factorio_2_0_15_77625.sh",
+        "url": "/downloads/factorio/en3installer0",
+        "version": "2.0.15",
+        "platform": "linux",
+        "language": "English",
+        "size": 1546637508
+      }
+    ],
+    "dlcs": [
+      {
+        "title": "Factorio: Space Age",
+        "cd_key": "i7tf-epmo-saq8-hlk7",
+        "files": [
+          {
+            "name": "setup_factorio_space_age_2.0.15_(77560).exe",
+            "url": "/downloads/factorio_space_age/en1installer0",
+            "version": "2.0.15",
+            "platform": "windows",
+            "language": "English",
+            "size": 3311568
+          },
+          {
+            "name": "setup_factorio_space_age_2.0.15_(77560)-1.bin",
+            "url": "/downloads/factorio_space_age/en1installer1",
+            "version": "2.0.15",
+            "platform": "windows",
+            "language": "English",
+            "size": 4291663870
+          },
+          {
+            "name": "setup_factorio_space_age_2.0.15_(77560)-2.bin",
+            "url": "/downloads/factorio_space_age/en1installer2",
+            "version": "2.0.15",
+            "platform": "windows",
+            "language": "English",
+            "size": 86196091
+          },
+          {
+            "name": "dlc_factorio__space_age_enUS_2_0_15_.pkg",
+            "url": "/downloads/factorio_space_age/en2installer0",
+            "version": "2.0.15",
+            "platform": "mac",
+            "language": "English",
+            "size": 4416926285
+          },
+          {
+            "name": "factorio_space_age_2_0_15_77625.sh",
+            "url": "/downloads/factorio_space_age/en3installer0",
+            "version": "2.0.15",
+            "platform": "linux",
+            "language": "English",
+            "size": 4347230469
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1245077743",
+    "title": "Overload - Playable Teaser",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_overload_-_playable_teaser_demo_(64bit)_(21491).exe",
+        "url": "/downloads/overload_playable_teaser/en1installer2",
+        "version": "demo",
+        "platform": "windows",
+        "language": "English",
+        "size": 924136
+      },
+      {
+        "name": "setup_overload_-_playable_teaser_demo_(64bit)_(21491)-1.bin",
+        "url": "/downloads/overload_playable_teaser/en1installer3",
+        "version": "demo",
+        "platform": "windows",
+        "language": "English",
+        "size": 2647982719
+      },
+      {
+        "name": "overload___playable_teaser_enUS_demo_21495.pkg",
+        "url": "/downloads/overload_playable_teaser/en2installer0",
+        "version": "demo",
+        "platform": "mac",
+        "language": "English",
+        "size": 2627536367
+      },
+      {
+        "name": "overload_playable_teaser_en_demo_21517.sh",
+        "url": "/downloads/overload_playable_teaser/en3installer0",
+        "version": "demo",
+        "platform": "linux",
+        "language": "English",
+        "size": 2627251405
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1331379816",
+    "title": "Mable & The Wood",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_mable__the_wood_1.1.0_(37605).exe",
+        "url": "/downloads/mable_the_wood/en1installer0",
+        "version": "1.1.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 606079840
+      },
+      {
+        "name": "mable___the_wood_enUS_19_37605.pkg",
+        "url": "/downloads/mable_the_wood/en2installer0",
+        "version": "1.9",
+        "platform": "mac",
+        "language": "English",
+        "size": 503002303
+      },
+      {
+        "name": "mable_the_wood_1_7_37606.sh",
+        "url": "/downloads/mable_the_wood/en3installer0",
+        "version": "1.7",
+        "platform": "linux",
+        "language": "English",
+        "size": 498483466
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1421064427",
+    "title": "Sunless Sea",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_sunless_sea_2.2.11.3212_(59940).exe",
+        "url": "/downloads/sunless_sea/en1installer0",
+        "version": "2.2.11.3212",
+        "platform": "windows",
+        "language": "English",
+        "size": 298820512
+      },
+      {
+        "name": "sunless_sea_enUS_2_2_11_3212_.pkg",
+        "url": "/downloads/sunless_sea/en2installer0",
+        "version": "2.2.11.3212",
+        "platform": "mac",
+        "language": "English",
+        "size": 307786878
+      },
+      {
+        "name": "sunless_sea_2_2_11_3212_64426.sh",
+        "url": "/downloads/sunless_sea/en3installer0",
+        "version": "2.2.11.3212",
+        "platform": "linux",
+        "language": "English",
+        "size": 305917245
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1423049311",
+    "title": "Cyberpunk 2077",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_cyberpunk_2077_2.13_(64bit)_(76205).exe",
+        "url": "/downloads/cyberpunk_2077_game/en1installer0",
+        "version": "2.13",
+        "platform": "windows",
+        "language": "English",
+        "size": 2190368
+      },
+      {
+        "name": "setup_cyberpunk_2077_2.13_(64bit)_(76205)-1.bin",
+        "url": "/downloads/cyberpunk_2077_game/en1installer1",
+        "version": "2.13",
+        "platform": "windows",
+        "language": "English",
+        "size": 4292786174
+      },
+      {
+        "name": "setup_cyberpunk_2077_2.13_(64bit)_(76205)-2.bin",
+        "url": "/downloads/cyberpunk_2077_game/en1installer2",
+        "version": "2.13",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_cyberpunk_2077_2.13_(64bit)_(76205)-3.bin",
+        "url": "/downloads/cyberpunk_2077_game/en1installer3",
+        "version": "2.13",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_cyberpunk_2077_2.13_(64bit)_(76205)-4.bin",
+        "url": "/downloads/cyberpunk_2077_game/en1installer4",
+        "version": "2.13",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_cyberpunk_2077_2.13_(64bit)_(76205)-5.bin",
+        "url": "/downloads/cyberpunk_2077_game/en1installer5",
+        "version": "2.13",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_cyberpunk_2077_2.13_(64bit)_(76205)-6.bin",
+        "url": "/downloads/cyberpunk_2077_game/en1installer6",
+        "version": "2.13",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_cyberpunk_2077_2.13_(64bit)_(76205)-7.bin",
+        "url": "/downloads/cyberpunk_2077_game/en1installer7",
+        "version": "2.13",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_cyberpunk_2077_2.13_(64bit)_(76205)-8.bin",
+        "url": "/downloads/cyberpunk_2077_game/en1installer8",
+        "version": "2.13",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_cyberpunk_2077_2.13_(64bit)_(76205)-9.bin",
+        "url": "/downloads/cyberpunk_2077_game/en1installer9",
+        "version": "2.13",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_cyberpunk_2077_2.13_(64bit)_(76205)-10.bin",
+        "url": "/downloads/cyberpunk_2077_game/en1installer10",
+        "version": "2.13",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_cyberpunk_2077_2.13_(64bit)_(76205)-11.bin",
+        "url": "/downloads/cyberpunk_2077_game/en1installer11",
+        "version": "2.13",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_cyberpunk_2077_2.13_(64bit)_(76205)-12.bin",
+        "url": "/downloads/cyberpunk_2077_game/en1installer12",
+        "version": "2.13",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_cyberpunk_2077_2.13_(64bit)_(76205)-13.bin",
+        "url": "/downloads/cyberpunk_2077_game/en1installer13",
+        "version": "2.13",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_cyberpunk_2077_2.13_(64bit)_(76205)-14.bin",
+        "url": "/downloads/cyberpunk_2077_game/en1installer14",
+        "version": "2.13",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_cyberpunk_2077_2.13_(64bit)_(76205)-15.bin",
+        "url": "/downloads/cyberpunk_2077_game/en1installer15",
+        "version": "2.13",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_cyberpunk_2077_2.13_(64bit)_(76205)-16.bin",
+        "url": "/downloads/cyberpunk_2077_game/en1installer16",
+        "version": "2.13",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_cyberpunk_2077_2.13_(64bit)_(76205)-17.bin",
+        "url": "/downloads/cyberpunk_2077_game/en1installer17",
+        "version": "2.13",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_cyberpunk_2077_2.13_(64bit)_(76205)-18.bin",
+        "url": "/downloads/cyberpunk_2077_game/en1installer18",
+        "version": "2.13",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_cyberpunk_2077_2.13_(64bit)_(76205)-19.bin",
+        "url": "/downloads/cyberpunk_2077_game/en1installer19",
+        "version": "2.13",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_cyberpunk_2077_2.13_(64bit)_(76205)-20.bin",
+        "url": "/downloads/cyberpunk_2077_game/en1installer20",
+        "version": "2.13",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_cyberpunk_2077_2.13_(64bit)_(76205)-21.bin",
+        "url": "/downloads/cyberpunk_2077_game/en1installer21",
+        "version": "2.13",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_cyberpunk_2077_2.13_(64bit)_(76205)-22.bin",
+        "url": "/downloads/cyberpunk_2077_game/en1installer22",
+        "version": "2.13",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_cyberpunk_2077_2.13_(64bit)_(76205)-23.bin",
+        "url": "/downloads/cyberpunk_2077_game/en1installer23",
+        "version": "2.13",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_cyberpunk_2077_2.13_(64bit)_(76205)-24.bin",
+        "url": "/downloads/cyberpunk_2077_game/en1installer24",
+        "version": "2.13",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_cyberpunk_2077_2.13_(64bit)_(76205)-25.bin",
+        "url": "/downloads/cyberpunk_2077_game/en1installer25",
+        "version": "2.13",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_cyberpunk_2077_2.13_(64bit)_(76205)-26.bin",
+        "url": "/downloads/cyberpunk_2077_game/en1installer26",
+        "version": "2.13",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_cyberpunk_2077_2.13_(64bit)_(76205)-27.bin",
+        "url": "/downloads/cyberpunk_2077_game/en1installer27",
+        "version": "2.13",
+        "platform": "windows",
+        "language": "English",
+        "size": 902703385
+      },
+      {
+        "name": "patch_cyberpunk_2077_2.12a_(72012)_to_2.13_(76205).exe",
+        "url": "/downloads/cyberpunk_2077_game/en1patch0",
+        "version": "2.13",
+        "platform": "windows",
+        "language": "English",
+        "size": 755104
+      },
+      {
+        "name": "patch_cyberpunk_2077_2.12a_(72012)_to_2.13_(76205)-1.bin",
+        "url": "/downloads/cyberpunk_2077_game/en1patch1",
+        "version": "2.13",
+        "platform": "windows",
+        "language": "English",
+        "size": 1520635701
+      },
+      {
+        "name": "patch_cyberpunk_2077_2.12_(71512)_to_2.12a_(72012).exe",
+        "url": "/downloads/cyberpunk_2077_game/en1patch2",
+        "version": "2.12a",
+        "platform": "windows",
+        "language": "English",
+        "size": 171000256
+      },
+      {
+        "name": "patch_cyberpunk_2077_2.11_(70813)_to_2.12_(71512).exe",
+        "url": "/downloads/cyberpunk_2077_game/en1patch3",
+        "version": "2.12",
+        "platform": "windows",
+        "language": "English",
+        "size": 759216
+      },
+      {
+        "name": "patch_cyberpunk_2077_2.11_(70813)_to_2.12_(71512)-1.bin",
+        "url": "/downloads/cyberpunk_2077_game/en1patch4",
+        "version": "2.12",
+        "platform": "windows",
+        "language": "English",
+        "size": 1841923616
+      },
+      {
+        "name": "patch_cyberpunk_2077_2.1_(69474)_to_2.11_(70813).exe",
+        "url": "/downloads/cyberpunk_2077_game/en1patch5",
+        "version": "2.11",
+        "platform": "windows",
+        "language": "English",
+        "size": 771408
+      },
+      {
+        "name": "patch_cyberpunk_2077_2.1_(69474)_to_2.11_(70813)-1.bin",
+        "url": "/downloads/cyberpunk_2077_game/en1patch6",
+        "version": "2.11",
+        "platform": "windows",
+        "language": "English",
+        "size": 3107205648
+      }
+    ],
+    "dlcs": [
+      {
+        "title": "Cyberpunk 2077: Phantom Liberty",
+        "cd_key": "",
+        "files": [
+          {
+            "name": "setup_cyberpunk_2077_phantom_liberty_2.13_(64bit)_(76205).exe",
+            "url": "/downloads/cyberpunk_2077_phantom_liberty/en1installer0",
+            "version": "2.13",
+            "platform": "windows",
+            "language": "English",
+            "size": 1287408
+          },
+          {
+            "name": "setup_cyberpunk_2077_phantom_liberty_2.13_(64bit)_(76205)-1.bin",
+            "url": "/downloads/cyberpunk_2077_phantom_liberty/en1installer1",
+            "version": "2.13",
+            "platform": "windows",
+            "language": "English",
+            "size": 4293688318
+          },
+          {
+            "name": "setup_cyberpunk_2077_phantom_liberty_2.13_(64bit)_(76205)-2.bin",
+            "url": "/downloads/cyberpunk_2077_phantom_liberty/en1installer2",
+            "version": "2.13",
+            "platform": "windows",
+            "language": "English",
+            "size": 4294967294
+          },
+          {
+            "name": "setup_cyberpunk_2077_phantom_liberty_2.13_(64bit)_(76205)-3.bin",
+            "url": "/downloads/cyberpunk_2077_phantom_liberty/en1installer3",
+            "version": "2.13",
+            "platform": "windows",
+            "language": "English",
+            "size": 4294967294
+          },
+          {
+            "name": "setup_cyberpunk_2077_phantom_liberty_2.13_(64bit)_(76205)-4.bin",
+            "url": "/downloads/cyberpunk_2077_phantom_liberty/en1installer4",
+            "version": "2.13",
+            "platform": "windows",
+            "language": "English",
+            "size": 4294967294
+          },
+          {
+            "name": "setup_cyberpunk_2077_phantom_liberty_2.13_(64bit)_(76205)-5.bin",
+            "url": "/downloads/cyberpunk_2077_phantom_liberty/en1installer5",
+            "version": "2.13",
+            "platform": "windows",
+            "language": "English",
+            "size": 4294967294
+          },
+          {
+            "name": "setup_cyberpunk_2077_phantom_liberty_2.13_(64bit)_(76205)-6.bin",
+            "url": "/downloads/cyberpunk_2077_phantom_liberty/en1installer6",
+            "version": "2.13",
+            "platform": "windows",
+            "language": "English",
+            "size": 4294967294
+          },
+          {
+            "name": "setup_cyberpunk_2077_phantom_liberty_2.13_(64bit)_(76205)-7.bin",
+            "url": "/downloads/cyberpunk_2077_phantom_liberty/en1installer7",
+            "version": "2.13",
+            "platform": "windows",
+            "language": "English",
+            "size": 4294967294
+          },
+          {
+            "name": "setup_cyberpunk_2077_phantom_liberty_2.13_(64bit)_(76205)-8.bin",
+            "url": "/downloads/cyberpunk_2077_phantom_liberty/en1installer8",
+            "version": "2.13",
+            "platform": "windows",
+            "language": "English",
+            "size": 4294967294
+          },
+          {
+            "name": "setup_cyberpunk_2077_phantom_liberty_2.13_(64bit)_(76205)-9.bin",
+            "url": "/downloads/cyberpunk_2077_phantom_liberty/en1installer9",
+            "version": "2.13",
+            "platform": "windows",
+            "language": "English",
+            "size": 4294967294
+          },
+          {
+            "name": "setup_cyberpunk_2077_phantom_liberty_2.13_(64bit)_(76205)-10.bin",
+            "url": "/downloads/cyberpunk_2077_phantom_liberty/en1installer10",
+            "version": "2.13",
+            "platform": "windows",
+            "language": "English",
+            "size": 2711047269
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1425039730",
+    "title": "Monkey Island\u2122 2 Special Edition: LeChuck\u2019s Revenge\u2122",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_monkey_island2_se_2.0.0.10.exe",
+        "url": "/downloads/monkey_island_2_special_edition_lechucks_revenge/en1installer1",
+        "version": null,
+        "platform": "windows",
+        "language": "English",
+        "size": 1664663816
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1430136345",
+    "title": "Fantasy General",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_fantasy_general_1.0_20211006_cfg_fix_(76449).exe",
+        "url": "/downloads/fantasy_general/en1installer0",
+        "version": "1.0 20211006_cfg_fix",
+        "platform": "windows",
+        "language": "English",
+        "size": 212477936
+      },
+      {
+        "name": "fantasy_general_enUS_1_0_20211006_50683.pkg",
+        "url": "/downloads/fantasy_general/en2installer0",
+        "version": "1.0 20211006",
+        "platform": "mac",
+        "language": "English",
+        "size": 205399627
+      },
+      {
+        "name": "fantasy_general_1_0_20211006_50653.sh",
+        "url": "/downloads/fantasy_general/en3installer0",
+        "version": "1.0 20211006",
+        "platform": "linux",
+        "language": "English",
+        "size": 204386382
+      },
+      {
+        "name": "setup_fantasy_general_1.0_20211006_cfg_fix_(german)_(76449).exe",
+        "url": "/downloads/fantasy_general/de1installer0",
+        "version": "1.0 20211006_cfg_fix",
+        "platform": "windows",
+        "language": "Deutsch",
+        "size": 197372368
+      },
+      {
+        "name": "fantasy_general_deDE_1_0_20211006_50683.pkg",
+        "url": "/downloads/fantasy_general/de2installer0",
+        "version": "1.0 20211006",
+        "platform": "mac",
+        "language": "Deutsch",
+        "size": 190670411
+      },
+      {
+        "name": "fantasy_general_german_1_0_20211006_50653.sh",
+        "url": "/downloads/fantasy_general/de3installer0",
+        "version": "1.0 20211006",
+        "platform": "linux",
+        "language": "Deutsch",
+        "size": 189686415
+      },
+      {
+        "name": "setup_fantasy_general_1.0_20211006_cfg_fix_(french)_(76449).exe",
+        "url": "/downloads/fantasy_general/fr1installer0",
+        "version": "1.0 20211006_cfg_fix",
+        "platform": "windows",
+        "language": "fran\u00e7ais",
+        "size": 193730144
+      },
+      {
+        "name": "fantasy_general_frFR_1_0_20211006_50683.pkg",
+        "url": "/downloads/fantasy_general/fr2installer0",
+        "version": "1.0 20211006",
+        "platform": "mac",
+        "language": "fran\u00e7ais",
+        "size": 187037256
+      },
+      {
+        "name": "fantasy_general_french_1_0_20211006_50653.sh",
+        "url": "/downloads/fantasy_general/fr3installer0",
+        "version": "1.0 20211006",
+        "platform": "linux",
+        "language": "fran\u00e7ais",
+        "size": 186041449
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1432575012",
+    "title": "Eye of the Beholder",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_eye_of_the_beholder_1.7_(28044).exe",
+        "url": "/downloads/eye_of_the_beholder/en1installer0",
+        "version": "1.7",
+        "platform": "windows",
+        "language": "English",
+        "size": 32808840
+      },
+      {
+        "name": "eye_of_the_beholder_enUS_1_7_33061.pkg",
+        "url": "/downloads/eye_of_the_beholder/en2installer0",
+        "version": "1.7",
+        "platform": "mac",
+        "language": "English",
+        "size": 31389252
+      },
+      {
+        "name": "gog_eye_of_the_beholder_2.0.0.3.sh",
+        "url": "/downloads/eye_of_the_beholder/en3installer3",
+        "version": "(gog-3)",
+        "platform": "linux",
+        "language": "English",
+        "size": 26553348
+      },
+      {
+        "name": "setup_eye_of_the_beholder_1.7_(german)_(28044).exe",
+        "url": "/downloads/eye_of_the_beholder/de1installer0",
+        "version": "1.7",
+        "platform": "windows",
+        "language": "Deutsch",
+        "size": 31159864
+      },
+      {
+        "name": "eye_of_the_beholder_deDE_1_7_33061.pkg",
+        "url": "/downloads/eye_of_the_beholder/de2installer0",
+        "version": "1.7",
+        "platform": "mac",
+        "language": "Deutsch",
+        "size": 29726280
+      },
+      {
+        "name": "gog_eye_of_the_beholder_german_2.0.0.3.sh",
+        "url": "/downloads/eye_of_the_beholder/de3installer2",
+        "version": "(gog-3)",
+        "platform": "linux",
+        "language": "Deutsch",
+        "size": 24929077
+      },
+      {
+        "name": "setup_eye_of_the_beholder_1.7_(spanish)_(28044).exe",
+        "url": "/downloads/eye_of_the_beholder/es1installer0",
+        "version": "1.7",
+        "platform": "windows",
+        "language": "espa\u00f1ol",
+        "size": 31261936
+      },
+      {
+        "name": "eye_of_the_beholder_esES_1_7_33061.pkg",
+        "url": "/downloads/eye_of_the_beholder/es2installer0",
+        "version": "1.7",
+        "platform": "mac",
+        "language": "espa\u00f1ol",
+        "size": 29832777
+      },
+      {
+        "name": "gog_eye_of_the_beholder_spanish_2.0.0.3.sh",
+        "url": "/downloads/eye_of_the_beholder/es3installer2",
+        "version": "(gog-3)",
+        "platform": "linux",
+        "language": "espa\u00f1ol",
+        "size": 25019851
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1432576039",
+    "title": "Eye of the Beholder II: The Legend of Darkmoon",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_eye_of_the_beholder_ii_the_legend_of_darkmoon_1.1_(28044).exe",
+        "url": "/downloads/eye_of_the_beholder_ii_the_legend_of_darkmoon/en1installer0",
+        "version": "1.1",
+        "platform": "windows",
+        "language": "English",
+        "size": 114362096
+      },
+      {
+        "name": "eye_of_the_beholder_ii__the_legend_of_darkmoon_enUS_1_0_31831.pkg",
+        "url": "/downloads/eye_of_the_beholder_ii_the_legend_of_darkmoon/en2installer0",
+        "version": "1.0",
+        "platform": "mac",
+        "language": "English",
+        "size": 111130181
+      },
+      {
+        "name": "gog_eye_of_the_beholder_ii_the_legend_of_darkmoon_2.0.0.2.sh",
+        "url": "/downloads/eye_of_the_beholder_ii_the_legend_of_darkmoon/en3installer2",
+        "version": "(gog-2)",
+        "platform": "linux",
+        "language": "English",
+        "size": 106216914
+      },
+      {
+        "name": "setup_eye_of_the_beholder_ii_the_legend_of_darkmoon_1.1_(28044).exe",
+        "url": "/downloads/eye_of_the_beholder_ii_the_legend_of_darkmoon/de1installer1",
+        "version": "1.1",
+        "platform": "windows",
+        "language": "Deutsch",
+        "size": 114362096
+      },
+      {
+        "name": "eye_of_the_beholder_ii__the_legend_of_darkmoon_deDE_1_0_31831.pkg",
+        "url": "/downloads/eye_of_the_beholder_ii_the_legend_of_darkmoon/de2installer0",
+        "version": "1.0",
+        "platform": "mac",
+        "language": "Deutsch",
+        "size": 111121989
+      },
+      {
+        "name": "gog_eye_of_the_beholder_ii_the_legend_of_darkmoon_german_2.0.0.2.sh",
+        "url": "/downloads/eye_of_the_beholder_ii_the_legend_of_darkmoon/de3installer2",
+        "version": "(gog-2)",
+        "platform": "linux",
+        "language": "Deutsch",
+        "size": 106210548
+      },
+      {
+        "name": "setup_eye_of_the_beholder_ii_the_legend_of_darkmoon_1.1_(28044).exe",
+        "url": "/downloads/eye_of_the_beholder_ii_the_legend_of_darkmoon/es1installer1",
+        "version": "1.1",
+        "platform": "windows",
+        "language": "espa\u00f1ol",
+        "size": 114362096
+      },
+      {
+        "name": "eye_of_the_beholder_ii__the_legend_of_darkmoon_esES_1_0_31831.pkg",
+        "url": "/downloads/eye_of_the_beholder_ii_the_legend_of_darkmoon/es2installer0",
+        "version": "1.0",
+        "platform": "mac",
+        "language": "espa\u00f1ol",
+        "size": 111113801
+      },
+      {
+        "name": "gog_eye_of_the_beholder_ii_the_legend_of_darkmoon_spanish_2.0.0.2.sh",
+        "url": "/downloads/eye_of_the_beholder_ii_the_legend_of_darkmoon/es3installer2",
+        "version": "(gog-2)",
+        "platform": "linux",
+        "language": "espa\u00f1ol",
+        "size": 106199673
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1432576327",
+    "title": "Eye of the Beholder III: Assault on Myth Drannor",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_eye_of_the_beholder_iii_assault_on_myth_drannor_4.1.60_(28044).exe",
+        "url": "/downloads/eye_of_the_beholder_iii_assault_on_myth_drannor/en1installer0",
+        "version": "4.1.60",
+        "platform": "windows",
+        "language": "English",
+        "size": 35793912
+      },
+      {
+        "name": "eye_of_the_beholder_iii__assault_on_myth_drannor_enUS_1_0_31908.pkg",
+        "url": "/downloads/eye_of_the_beholder_iii_assault_on_myth_drannor/en2installer0",
+        "version": "1.0",
+        "platform": "mac",
+        "language": "English",
+        "size": 33853914
+      },
+      {
+        "name": "gog_eye_of_the_beholder_iii_assault_on_myth_drannor_2.0.0.3.sh",
+        "url": "/downloads/eye_of_the_beholder_iii_assault_on_myth_drannor/en3installer2",
+        "version": "(gog-3)",
+        "platform": "linux",
+        "language": "English",
+        "size": 28981058
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1436866438",
+    "title": "Shadowrun Hong Kong - Extended Edition",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_shadowrun_hong_kong_-_extended_edition_3.1.2_(a)_(10017).exe",
+        "url": "/downloads/shadowrun_hong_kong_extended_edition/en1installer0",
+        "version": "3.1.2 (A)",
+        "platform": "windows",
+        "language": "English",
+        "size": 5583624
+      },
+      {
+        "name": "setup_shadowrun_hong_kong_-_extended_edition_3.1.2_(a)_(10017)-1.bin",
+        "url": "/downloads/shadowrun_hong_kong_extended_edition/en1installer1",
+        "version": "3.1.2 (A)",
+        "platform": "windows",
+        "language": "English",
+        "size": 3410207974
+      },
+      {
+        "name": "patch_shadowrun_hong_kong_extended_edition_2.5.0.9.exe",
+        "url": "/downloads/shadowrun_hong_kong_extended_edition/en1patch4",
+        "version": "3.1.0 (gog-8) -> 3.1.1 (gog-9)",
+        "platform": "windows",
+        "language": "English",
+        "size": 20009536
+      },
+      {
+        "name": "patch_shadowrun_hong_kong_extended_edition_2.6.0.10.exe",
+        "url": "/downloads/shadowrun_hong_kong_extended_edition/en1patch5",
+        "version": "3.1.1 (gog-9) -> 3.1.2 (gog-10)",
+        "platform": "windows",
+        "language": "English",
+        "size": 9623872
+      },
+      {
+        "name": "shadowrun_hong_kong___extended_edition_enUS_3_1_2__a__10184.pkg",
+        "url": "/downloads/shadowrun_hong_kong_extended_edition/en2installer0",
+        "version": "3.1.2 (A)",
+        "platform": "mac",
+        "language": "English",
+        "size": 3383051765
+      },
+      {
+        "name": "patch_shadowrun_hong_kong_extended_edition_2_3.pkg",
+        "url": "/downloads/shadowrun_hong_kong_extended_edition/en2patch2",
+        "version": "",
+        "platform": "mac",
+        "language": "English",
+        "size": 22148581
+      },
+      {
+        "name": "gog_shadowrun_hong_kong_extended_edition_2.8.0.11.sh",
+        "url": "/downloads/shadowrun_hong_kong_extended_edition/en3installer7",
+        "version": "3.1.2 (gog-11)",
+        "platform": "linux",
+        "language": "English",
+        "size": 3401437059
+      },
+      {
+        "name": "patch_shadowrun_hong_kong_extended_edition_2.7.8.10.sh",
+        "url": "/downloads/shadowrun_hong_kong_extended_edition/en3patch1",
+        "version": "3.1.1 (gog-9) -> 3.1.2 (gog-10)",
+        "platform": "linux",
+        "language": "English",
+        "size": 269995729
+      }
+    ],
+    "dlcs": [
+      {
+        "title": "Shadowrun Hong Kong - Extended Edition Deluxe Upgrade",
+        "cd_key": "",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "1436869408",
+    "title": "TIS-100",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_tis-100_20171129_(43141).exe",
+        "url": "/downloads/tis100/en1installer0",
+        "version": "20171129",
+        "platform": "windows",
+        "language": "English",
+        "size": 27856080
+      },
+      {
+        "name": "tis_100_enUS_11_14_2020_43173.pkg",
+        "url": "/downloads/tis100/en2installer0",
+        "version": "11.14.2020",
+        "platform": "mac",
+        "language": "English",
+        "size": 37172163
+      },
+      {
+        "name": "tis_100_11_14_2020_43142.sh",
+        "url": "/downloads/tis100/en3installer0",
+        "version": "11.14.2020",
+        "platform": "linux",
+        "language": "English",
+        "size": 36866617
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1439487606",
+    "title": "SOMA",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_soma_1.61_(64bit)_(50360).exe",
+        "url": "/downloads/soma/en1installer0",
+        "version": "1.61",
+        "platform": "windows",
+        "language": "English",
+        "size": 6788656
+      },
+      {
+        "name": "setup_soma_1.61_(64bit)_(50360)-1.bin",
+        "url": "/downloads/soma/en1installer1",
+        "version": "1.61",
+        "platform": "windows",
+        "language": "English",
+        "size": 4288184830
+      },
+      {
+        "name": "setup_soma_1.61_(64bit)_(50360)-2.bin",
+        "url": "/downloads/soma/en1installer2",
+        "version": "1.61",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_soma_1.61_(64bit)_(50360)-3.bin",
+        "url": "/downloads/soma/en1installer3",
+        "version": "1.61",
+        "platform": "windows",
+        "language": "English",
+        "size": 3662176339
+      },
+      {
+        "name": "patch_soma_1.6_(50025)_to_1.61_(50360).exe",
+        "url": "/downloads/soma/en1patch0",
+        "version": "1.61",
+        "platform": "windows",
+        "language": "English",
+        "size": 6763392
+      },
+      {
+        "name": "patch_soma_1.510_(19928)_to_1.6_(50025).exe",
+        "url": "/downloads/soma/en1patch1",
+        "version": "1.6",
+        "platform": "windows",
+        "language": "English",
+        "size": 8397216
+      },
+      {
+        "name": "soma_enUS_1_64_51662.pkg",
+        "url": "/downloads/soma/en2installer0",
+        "version": "1.64",
+        "platform": "mac",
+        "language": "English",
+        "size": 12259763799
+      },
+      {
+        "name": "soma_1_61_50361.sh",
+        "url": "/downloads/soma/en3installer0",
+        "version": "1.61",
+        "platform": "linux",
+        "language": "English",
+        "size": 12270223972
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1440133968",
+    "title": "SYMMETRY",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_symmetry_1.0.2.win_(21945).exe",
+        "url": "/downloads/symmetry/en1installer0",
+        "version": "1.0.2.Win",
+        "platform": "windows",
+        "language": "English",
+        "size": 206303120
+      },
+      {
+        "name": "symmetry_enUS_1_0_2_mac_gog_21950.pkg",
+        "url": "/downloads/symmetry/en2installer0",
+        "version": "1.0.2.Mac GOG",
+        "platform": "mac",
+        "language": "English",
+        "size": 103532012
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1440426004",
+    "title": "Anno 1404: Gold Edition",
+    "cd_key": "VCQ3-7WMA-QGGR-R36Y",
+    "files": [
+      {
+        "name": "setup_anno_1404_2.01_v2_gog_0.1_(76234).exe",
+        "url": "/downloads/anno_1404_gold_edition/en1installer0",
+        "version": "2.01 v2 GOG 0.1",
+        "platform": "windows",
+        "language": "English",
+        "size": 856296
+      },
+      {
+        "name": "setup_anno_1404_2.01_v2_gog_0.1_(76234)-1.bin",
+        "url": "/downloads/anno_1404_gold_edition/en1installer1",
+        "version": "2.01 v2 GOG 0.1",
+        "platform": "windows",
+        "language": "English",
+        "size": 3417732334
+      },
+      {
+        "name": "patch_anno_1404_2.01_v2_(30325)_to_2.01_v2_GOG_0.1_(76234).exe",
+        "url": "/downloads/anno_1404_gold_edition/en1patch0",
+        "version": "2.01 v2 GOG 0.1",
+        "platform": "windows",
+        "language": "English",
+        "size": 3918856
+      },
+      {
+        "name": "setup_anno_1404_2.01_v2_gog_0.1_(german)_(76234).exe",
+        "url": "/downloads/anno_1404_gold_edition/de1installer0",
+        "version": "2.01 v2 GOG 0.1",
+        "platform": "windows",
+        "language": "Deutsch",
+        "size": 857144
+      },
+      {
+        "name": "setup_anno_1404_2.01_v2_gog_0.1_(german)_(76234)-1.bin",
+        "url": "/downloads/anno_1404_gold_edition/de1installer1",
+        "version": "2.01 v2 GOG 0.1",
+        "platform": "windows",
+        "language": "Deutsch",
+        "size": 3475072496
+      },
+      {
+        "name": "setup_anno_1404_2.01_v2_gog_0.1_(spanish)_(76234).exe",
+        "url": "/downloads/anno_1404_gold_edition/es1installer0",
+        "version": "2.01 v2 GOG 0.1",
+        "platform": "windows",
+        "language": "espa\u00f1ol",
+        "size": 855936
+      },
+      {
+        "name": "setup_anno_1404_2.01_v2_gog_0.1_(spanish)_(76234)-1.bin",
+        "url": "/downloads/anno_1404_gold_edition/es1installer1",
+        "version": "2.01 v2 GOG 0.1",
+        "platform": "windows",
+        "language": "espa\u00f1ol",
+        "size": 3380849563
+      },
+      {
+        "name": "setup_anno_1404_2.01_v2_gog_0.1_(french)_(76234).exe",
+        "url": "/downloads/anno_1404_gold_edition/fr1installer0",
+        "version": "2.01 v2 GOG 0.1",
+        "platform": "windows",
+        "language": "fran\u00e7ais",
+        "size": 856024
+      },
+      {
+        "name": "setup_anno_1404_2.01_v2_gog_0.1_(french)_(76234)-1.bin",
+        "url": "/downloads/anno_1404_gold_edition/fr1installer1",
+        "version": "2.01 v2 GOG 0.1",
+        "platform": "windows",
+        "language": "fran\u00e7ais",
+        "size": 3396472058
+      },
+      {
+        "name": "setup_anno_1404_2.01_v2_gog_0.1_(italian)_(76234).exe",
+        "url": "/downloads/anno_1404_gold_edition/it1installer0",
+        "version": "2.01 v2 GOG 0.1",
+        "platform": "windows",
+        "language": "italiano",
+        "size": 856536
+      },
+      {
+        "name": "setup_anno_1404_2.01_v2_gog_0.1_(italian)_(76234)-1.bin",
+        "url": "/downloads/anno_1404_gold_edition/it1installer1",
+        "version": "2.01 v2 GOG 0.1",
+        "platform": "windows",
+        "language": "italiano",
+        "size": 3420979779
+      },
+      {
+        "name": "setup_anno_1404_2.01_v2_gog_0.1_(polish)_(76234).exe",
+        "url": "/downloads/anno_1404_gold_edition/pl1installer0",
+        "version": "2.01 v2 GOG 0.1",
+        "platform": "windows",
+        "language": "polski",
+        "size": 856200
+      },
+      {
+        "name": "setup_anno_1404_2.01_v2_gog_0.1_(polish)_(76234)-1.bin",
+        "url": "/downloads/anno_1404_gold_edition/pl1installer1",
+        "version": "2.01 v2 GOG 0.1",
+        "platform": "windows",
+        "language": "polski",
+        "size": 3420522799
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1444386007",
+    "title": "Wasteland 2 Director's Cut",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_wasteland_2_directors_cut_2.3.0.5(a)_(32579).exe",
+        "url": "/downloads/wasteland_2_directors_cut/en1installer0",
+        "version": "2.3.0.5(A)",
+        "platform": "windows",
+        "language": "English",
+        "size": 973896
+      },
+      {
+        "name": "setup_wasteland_2_directors_cut_2.3.0.5(a)_(32579)-1.bin",
+        "url": "/downloads/wasteland_2_directors_cut/en1installer1",
+        "version": "2.3.0.5(A)",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294000638
+      },
+      {
+        "name": "setup_wasteland_2_directors_cut_2.3.0.5(a)_(32579)-2.bin",
+        "url": "/downloads/wasteland_2_directors_cut/en1installer2",
+        "version": "2.3.0.5(A)",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_wasteland_2_directors_cut_2.3.0.5(a)_(32579)-3.bin",
+        "url": "/downloads/wasteland_2_directors_cut/en1installer3",
+        "version": "2.3.0.5(A)",
+        "platform": "windows",
+        "language": "English",
+        "size": 1378599812
+      },
+      {
+        "name": "wasteland_2_director_s_cut_enUS_1_0__a__32602.pkg",
+        "url": "/downloads/wasteland_2_directors_cut/en2installer0",
+        "version": "1.0 (A)",
+        "platform": "mac",
+        "language": "English",
+        "size": 9909463202
+      },
+      {
+        "name": "gog_wasteland_2_director_s_cut_2.3.0.5.sh",
+        "url": "/downloads/wasteland_2_directors_cut/en3installer2",
+        "version": "(gog-5)",
+        "platform": "linux",
+        "language": "English",
+        "size": 9953371965
+      }
+    ],
+    "dlcs": [
+      {
+        "title": "Wasteland 2 Digital Classic Edition Upgrade",
+        "cd_key": "W\u0000a\u0000s\u0000t\u0000e\u0000l\u0000a\u0000n\u0000d\u0000 \u00001\u0000 \u0000g\u0000i\u0000f\u0000t\u0000 \u0000c\u0000o\u0000d\u0000e\u0000:\u0000 \u0000h\u0000t\u0000t\u0000p\u0000:\u0000/\u0000/\u0000w\u0000w\u0000w\u0000.\u0000g\u0000o\u0000g\u0000.\u0000c\u0000o\u0000m\u0000/\u0000r\u0000e\u0000d\u0000e\u0000e\u0000m\u0000/\u0000M\u0000U\u0000E\u0000G\u0000E\u0000C\u00002\u00003\u00003\u0000E\u00008\u0000B\u00001\u00006\u00005\u00005\u0000E\u0000E",
+        "files": []
+      }
+    ]
+  },
+  {
+    "id": "1449569170",
+    "title": "Bio Menace",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_bio_menace_1.1_(28043).exe",
+        "url": "/downloads/bio_menace/en1installer0",
+        "version": "1.1",
+        "platform": "windows",
+        "language": "English",
+        "size": 14143392
+      },
+      {
+        "name": "bio_menace_enUS_1_1_33109.pkg",
+        "url": "/downloads/bio_menace/en2installer0",
+        "version": "1.1",
+        "platform": "mac",
+        "language": "English",
+        "size": 12129563
+      },
+      {
+        "name": "gog_bio_menace_2.0.0.2.sh",
+        "url": "/downloads/bio_menace/en3installer1",
+        "version": "1.1 (gog-2)",
+        "platform": "linux",
+        "language": "English",
+        "size": 7347743
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1453298883",
+    "title": "Project Zomboid",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_project_zomboid_41.78.16_(64bit)_(60900).exe",
+        "url": "/downloads/project_zomboid/en1installer0",
+        "version": "41.78.16",
+        "platform": "windows",
+        "language": "English",
+        "size": 4022992
+      },
+      {
+        "name": "setup_project_zomboid_41.78.16_(64bit)_(60900)-1.bin",
+        "url": "/downloads/project_zomboid/en1installer1",
+        "version": "41.78.16",
+        "platform": "windows",
+        "language": "English",
+        "size": 2799486818
+      },
+      {
+        "name": "patch_project_zomboid_41.78.15.2_(60760)_to_41.78.16_(60900).exe",
+        "url": "/downloads/project_zomboid/en1patch0",
+        "version": "41.78.16",
+        "platform": "windows",
+        "language": "English",
+        "size": 3920696
+      },
+      {
+        "name": "patch_project_zomboid_41.78.15.1_(60754)_to_41.78.15.2_(60760).exe",
+        "url": "/downloads/project_zomboid/en1patch1",
+        "version": "41.78.15.2",
+        "platform": "windows",
+        "language": "English",
+        "size": 3920128
+      },
+      {
+        "name": "patch_project_zomboid_41.78.15_(60742)_to_41.78.15.1_(60754).exe",
+        "url": "/downloads/project_zomboid/en1patch2",
+        "version": "41.78.15.1",
+        "platform": "windows",
+        "language": "English",
+        "size": 3925664
+      },
+      {
+        "name": "patch_project_zomboid_41.78.12_(60440)_to_41.78.15_(60742).exe",
+        "url": "/downloads/project_zomboid/en1patch3",
+        "version": "41.78.15",
+        "platform": "windows",
+        "language": "English",
+        "size": 4279040
+      },
+      {
+        "name": "setup_project_zomboid_41.78.16_(32bit)_(60900).exe",
+        "url": "/downloads/project_zomboid/en1patch4",
+        "version": "41.78.16",
+        "platform": "windows",
+        "language": "English",
+        "size": 4026928
+      },
+      {
+        "name": "setup_project_zomboid_41.78.16_(32bit)_(60900)-1.bin",
+        "url": "/downloads/project_zomboid/en1patch5",
+        "version": "41.78.16",
+        "platform": "windows",
+        "language": "English",
+        "size": 2757182119
+      },
+      {
+        "name": "project_zomboid_enUS_41_78_16_.pkg",
+        "url": "/downloads/project_zomboid/en2installer0",
+        "version": "41.78.16",
+        "platform": "mac",
+        "language": "English",
+        "size": 2592441868
+      },
+      {
+        "name": "project_zomboid_enUS_41_66_53943.pkg",
+        "url": "/downloads/project_zomboid/en2patch1",
+        "version": "41.66",
+        "platform": "mac",
+        "language": "English",
+        "size": 2160985679
+      },
+      {
+        "name": "project_zomboid_41_78_16_60901.sh",
+        "url": "/downloads/project_zomboid/en3installer0",
+        "version": "41.78.16",
+        "platform": "linux",
+        "language": "English",
+        "size": 2621289342
+      },
+      {
+        "name": "project_zomboid_41_66_53944.sh",
+        "url": "/downloads/project_zomboid/en3patch1",
+        "version": "41.66",
+        "platform": "linux",
+        "language": "English",
+        "size": 2184086409
+      },
+      {
+        "name": "project_zomboid_41_71_unstable_55953.sh",
+        "url": "/downloads/project_zomboid/en3patch2",
+        "version": "41.71",
+        "platform": "linux",
+        "language": "English",
+        "size": 2345287523
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1458127099",
+    "title": "Jotun: Valhalla Edition",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_jotun_valhalla_edition_11-09-2019_(64bit)_(32396).exe",
+        "url": "/downloads/jotun/en1installer0",
+        "version": "11-09-2019",
+        "platform": "windows",
+        "language": "English",
+        "size": 1510346880
+      },
+      {
+        "name": "patch_jotun_valhalla_edition_29-04-2019_(29155)_to_11-09-2019_(32396).exe",
+        "url": "/downloads/jotun/en1patch0",
+        "version": "11-09-2019",
+        "platform": "windows",
+        "language": "English",
+        "size": 138721320
+      },
+      {
+        "name": "patch_jotun_20170620_(a)_(13455)_to_20170727_(13763).exe",
+        "url": "/downloads/jotun/en1patch1",
+        "version": "20170727",
+        "platform": "windows",
+        "language": "English",
+        "size": 17029016
+      },
+      {
+        "name": "jotun__valhalla_edition_enUS_11_09_2019_32397.pkg",
+        "url": "/downloads/jotun/en2installer0",
+        "version": "11-09-2019",
+        "platform": "mac",
+        "language": "English",
+        "size": 1482053197
+      },
+      {
+        "name": "jotun_12_09_2019_32415.sh",
+        "url": "/downloads/jotun/en3installer0",
+        "version": "12-09-2019",
+        "platform": "linux",
+        "language": "English",
+        "size": 1502246152
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1508702879",
+    "title": "Stellaris",
+    "cd_key": "486H5E2B81",
+    "files": [
+      {
+        "name": "setup_stellaris_3.14.159_(77626).exe",
+        "url": "/downloads/stellaris/en1installer0",
+        "version": "3.14.159",
+        "platform": "windows",
+        "language": "English",
+        "size": 5579600
+      },
+      {
+        "name": "setup_stellaris_3.14.159_(77626)-1.bin",
+        "url": "/downloads/stellaris/en1installer1",
+        "version": "3.14.159",
+        "platform": "windows",
+        "language": "English",
+        "size": 4289396222
+      },
+      {
+        "name": "setup_stellaris_3.14.159_(77626)-2.bin",
+        "url": "/downloads/stellaris/en1installer2",
+        "version": "3.14.159",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_stellaris_3.14.159_(77626)-3.bin",
+        "url": "/downloads/stellaris/en1installer3",
+        "version": "3.14.159",
+        "platform": "windows",
+        "language": "English",
+        "size": 3202778335
+      },
+      {
+        "name": "patch_stellaris_3.14.15_(77415)_to_3.14.159_(77626).exe",
+        "url": "/downloads/stellaris/en1patch0",
+        "version": "3.14.159",
+        "platform": "windows",
+        "language": "English",
+        "size": 85937136
+      },
+      {
+        "name": "patch_stellaris_3.14.1_(77237)_to_3.14.15_(77415).exe",
+        "url": "/downloads/stellaris/en1patch1",
+        "version": "3.14.15",
+        "platform": "windows",
+        "language": "English",
+        "size": 85336864
+      },
+      {
+        "name": "patch_stellaris_3.13.2.0_(76590)_to_3.14.1_(77237).exe",
+        "url": "/downloads/stellaris/en1patch2",
+        "version": "3.14.1",
+        "platform": "windows",
+        "language": "English",
+        "size": 490959520
+      },
+      {
+        "name": "patch_stellaris_3.13.1.0_(76406)_to_3.13.2.0_(76590).exe",
+        "url": "/downloads/stellaris/en1patch3",
+        "version": "3.13.2.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 80653760
+      },
+      {
+        "name": "stellaris_en_3_14_159_.pkg",
+        "url": "/downloads/stellaris/en2installer0",
+        "version": "3.14.159",
+        "platform": "mac",
+        "language": "English",
+        "size": 11944268545
+      },
+      {
+        "name": "stellaris_3_14_159_77722.sh",
+        "url": "/downloads/stellaris/en3installer0",
+        "version": "3.14.159",
+        "platform": "linux",
+        "language": "English",
+        "size": 11794047439
+      }
+    ],
+    "dlcs": [
+      {
+        "title": "Stellaris: Horizon Signal",
+        "cd_key": "",
+        "files": [
+          {
+            "name": "setup_stellaris_horizon_signal_3.14.159_(77626).exe",
+            "url": "/downloads/stellaris_horizon_signal/en1installer0",
+            "version": "3.14.159",
+            "platform": "windows",
+            "language": "English",
+            "size": 7257816
+          },
+          {
+            "name": "dlc_stellaris__horizon_signal_en_3_14_159_.pkg",
+            "url": "/downloads/stellaris_horizon_signal/en2installer0",
+            "version": "3.14.159",
+            "platform": "mac",
+            "language": "English",
+            "size": 93418
+          },
+          {
+            "name": "stellaris_horizon_signal_3_14_159_77722.sh",
+            "url": "/downloads/stellaris_horizon_signal/en3installer0",
+            "version": "3.14.159",
+            "platform": "linux",
+            "language": "English",
+            "size": 1106784
+          }
+        ]
+      },
+      {
+        "title": "Stellaris: Anniversary Portraits",
+        "cd_key": "",
+        "files": [
+          {
+            "name": "setup_stellaris_anniversary_portraits_3.14.159_(77626).exe",
+            "url": "/downloads/stellaris_anniversary_portraits/en1installer0",
+            "version": "3.14.159",
+            "platform": "windows",
+            "language": "English",
+            "size": 6607104
+          },
+          {
+            "name": "dlc_stellaris__anniversary_portraits_en_3_14_159_.pkg",
+            "url": "/downloads/stellaris_anniversary_portraits/en2installer0",
+            "version": "3.14.159",
+            "platform": "mac",
+            "language": "English",
+            "size": 120982
+          },
+          {
+            "name": "stellaris_anniversary_portraits_3_14_159_77722.sh",
+            "url": "/downloads/stellaris_anniversary_portraits/en3installer0",
+            "version": "3.14.159",
+            "platform": "linux",
+            "language": "English",
+            "size": 1134391
+          }
+        ]
+      },
+      {
+        "title": "Stellaris: Utopia",
+        "cd_key": "1C3AEAXFA2",
+        "files": [
+          {
+            "name": "setup_stellaris_utopia_3.14.159_(77626).exe",
+            "url": "/downloads/stellaris_utopia/en1installer0",
+            "version": "3.14.159",
+            "platform": "windows",
+            "language": "English",
+            "size": 82548488
+          },
+          {
+            "name": "dlc_stellaris__utopia_en_3_14_159_.pkg",
+            "url": "/downloads/stellaris_utopia/en2installer0",
+            "version": "3.14.159",
+            "platform": "mac",
+            "language": "English",
+            "size": 76086934
+          },
+          {
+            "name": "stellaris_utopia_3_14_159_77722.sh",
+            "url": "/downloads/stellaris_utopia/en3installer0",
+            "version": "3.14.159",
+            "platform": "linux",
+            "language": "English",
+            "size": 77077304
+          }
+        ]
+      },
+      {
+        "title": "Stellaris: Apocalypse",
+        "cd_key": "171035H64D",
+        "files": [
+          {
+            "name": "setup_stellaris_apocalypse_3.14.159_(77626).exe",
+            "url": "/downloads/stellaris_apocalypse/en1installer0",
+            "version": "3.14.159",
+            "platform": "windows",
+            "language": "English",
+            "size": 45016664
+          },
+          {
+            "name": "dlc_stellaris__apocalypse_en_3_14_159_.pkg",
+            "url": "/downloads/stellaris_apocalypse/en2installer0",
+            "version": "3.14.159",
+            "platform": "mac",
+            "language": "English",
+            "size": 38050816
+          },
+          {
+            "name": "stellaris_apocalypse_3_14_159_77722.sh",
+            "url": "/downloads/stellaris_apocalypse/en3installer0",
+            "version": "3.14.159",
+            "platform": "linux",
+            "language": "English",
+            "size": 39056295
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1513949567",
+    "title": "EVERSPACE\u2122",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_everspace_1.3.5.36556_(64bit)_(32841).exe",
+        "url": "/downloads/everspace/en1installer3",
+        "version": "1.3.5.36556",
+        "platform": "windows",
+        "language": "English",
+        "size": 932560
+      },
+      {
+        "name": "setup_everspace_1.3.5.36556_(64bit)_(32841)-1.bin",
+        "url": "/downloads/everspace/en1installer4",
+        "version": "1.3.5.36556",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294041598
+      },
+      {
+        "name": "setup_everspace_1.3.5.36556_(64bit)_(32841)-2.bin",
+        "url": "/downloads/everspace/en1installer5",
+        "version": "1.3.5.36556",
+        "platform": "windows",
+        "language": "English",
+        "size": 939466540
+      },
+      {
+        "name": "patch_everspace_1.3.4.36508_(29222)_to_1.3.5.36556_(32841).exe",
+        "url": "/downloads/everspace/en1patch0",
+        "version": "1.3.5.36556",
+        "platform": "windows",
+        "language": "English",
+        "size": 304345520
+      },
+      {
+        "name": "patch_everspace_1.3.3.36382_(25362)_to_1.3.4.36508_(29222).exe",
+        "url": "/downloads/everspace/en1patch1",
+        "version": "1.3.4.36508",
+        "platform": "windows",
+        "language": "English",
+        "size": 169518848
+      },
+      {
+        "name": "patch_everspace_1.3.3.36369_(25288)_to_1.3.3.36382_(25362).exe",
+        "url": "/downloads/everspace/en1patch2",
+        "version": "1.3.3.36382",
+        "platform": "windows",
+        "language": "English",
+        "size": 519556936
+      },
+      {
+        "name": "patch_everspace_1.3.2.36168_(22808)_to_1.3.3.36369_(25288).exe",
+        "url": "/downloads/everspace/en1patch3",
+        "version": "1.3.3.36369",
+        "platform": "windows",
+        "language": "English",
+        "size": 760920
+      },
+      {
+        "name": "patch_everspace_1.3.2.36168_(22808)_to_1.3.3.36369_(25288)-1.bin",
+        "url": "/downloads/everspace/en1patch4",
+        "version": "1.3.3.36369",
+        "platform": "windows",
+        "language": "English",
+        "size": 996074913
+      },
+      {
+        "name": "setup_everspace_1.3.5.36556_(32bit)_(32841).exe",
+        "url": "/downloads/everspace/en1patch5",
+        "version": "1.3.5.36556",
+        "platform": "windows",
+        "language": "English",
+        "size": 931912
+      },
+      {
+        "name": "setup_everspace_1.3.5.36556_(32bit)_(32841)-1.bin",
+        "url": "/downloads/everspace/en1patch6",
+        "version": "1.3.5.36556",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294042622
+      },
+      {
+        "name": "setup_everspace_1.3.5.36556_(32bit)_(32841)-2.bin",
+        "url": "/downloads/everspace/en1patch7",
+        "version": "1.3.5.36556",
+        "platform": "windows",
+        "language": "English",
+        "size": 910404816
+      },
+      {
+        "name": "everspace_enUS_1_3_5_36554_32842.pkg",
+        "url": "/downloads/everspace/en2installer0",
+        "version": "1.3.5.36554",
+        "platform": "mac",
+        "language": "English",
+        "size": 5408578521
+      },
+      {
+        "name": "everspace_1_3_5_3655_32896.sh",
+        "url": "/downloads/everspace/en3installer0",
+        "version": "1.3.5.3655",
+        "platform": "linux",
+        "language": "English",
+        "size": 5492667201
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1528148981",
+    "title": "The Curse of Monkey Island\u2122",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_the_curse_of_monkey_islandtm_1.0l_(20627).exe",
+        "url": "/downloads/the_curse_of_monkey_island/en1installer0",
+        "version": "1.0L",
+        "platform": "windows",
+        "language": "English",
+        "size": 789656
+      },
+      {
+        "name": "setup_the_curse_of_monkey_islandtm_1.0l_(20627)-1.bin",
+        "url": "/downloads/the_curse_of_monkey_island/en1installer1",
+        "version": "1.0L",
+        "platform": "windows",
+        "language": "English",
+        "size": 1047295757
+      },
+      {
+        "name": "the_curse_of_monkey_island__enUS_1_0l_20672.pkg",
+        "url": "/downloads/the_curse_of_monkey_island/en2installer0",
+        "version": "1.0L",
+        "platform": "mac",
+        "language": "English",
+        "size": 992228842
+      },
+      {
+        "name": "setup_the_curse_of_monkey_islandtm_1.0l_(german)_(20627).exe",
+        "url": "/downloads/the_curse_of_monkey_island/de1installer0",
+        "version": "1.0L",
+        "platform": "windows",
+        "language": "Deutsch",
+        "size": 790160
+      },
+      {
+        "name": "setup_the_curse_of_monkey_islandtm_1.0l_(german)_(20627)-1.bin",
+        "url": "/downloads/the_curse_of_monkey_island/de1installer1",
+        "version": "1.0L",
+        "platform": "windows",
+        "language": "Deutsch",
+        "size": 1085303797
+      },
+      {
+        "name": "the_curse_of_monkey_island__deDE_1_0l_20672.pkg",
+        "url": "/downloads/the_curse_of_monkey_island/de2installer0",
+        "version": "1.0L",
+        "platform": "mac",
+        "language": "Deutsch",
+        "size": 1030243818
+      },
+      {
+        "name": "setup_the_curse_of_monkey_islandtm_1.0l_(spanish)_(20627).exe",
+        "url": "/downloads/the_curse_of_monkey_island/es1installer0",
+        "version": "1.0L",
+        "platform": "windows",
+        "language": "espa\u00f1ol",
+        "size": 789376
+      },
+      {
+        "name": "setup_the_curse_of_monkey_islandtm_1.0l_(spanish)_(20627)-1.bin",
+        "url": "/downloads/the_curse_of_monkey_island/es1installer1",
+        "version": "1.0L",
+        "platform": "windows",
+        "language": "espa\u00f1ol",
+        "size": 1035219498
+      },
+      {
+        "name": "the_curse_of_monkey_island__esES_1_0l_20672.pkg",
+        "url": "/downloads/the_curse_of_monkey_island/es2installer0",
+        "version": "1.0L",
+        "platform": "mac",
+        "language": "espa\u00f1ol",
+        "size": 980149738
+      },
+      {
+        "name": "setup_the_curse_of_monkey_islandtm_1.0l_(french)_(20627).exe",
+        "url": "/downloads/the_curse_of_monkey_island/fr1installer0",
+        "version": "1.0L",
+        "platform": "windows",
+        "language": "fran\u00e7ais",
+        "size": 789736
+      },
+      {
+        "name": "setup_the_curse_of_monkey_islandtm_1.0l_(french)_(20627)-1.bin",
+        "url": "/downloads/the_curse_of_monkey_island/fr1installer1",
+        "version": "1.0L",
+        "platform": "windows",
+        "language": "fran\u00e7ais",
+        "size": 1061789539
+      },
+      {
+        "name": "the_curse_of_monkey_island__frFR_1_0l_20672.pkg",
+        "url": "/downloads/the_curse_of_monkey_island/fr2installer0",
+        "version": "1.0L",
+        "platform": "mac",
+        "language": "fran\u00e7ais",
+        "size": 1006728687
+      },
+      {
+        "name": "setup_the_curse_of_monkey_islandtm_1.0l_(italian)_(20627).exe",
+        "url": "/downloads/the_curse_of_monkey_island/it1installer0",
+        "version": "1.0L",
+        "platform": "windows",
+        "language": "italiano",
+        "size": 789952
+      },
+      {
+        "name": "setup_the_curse_of_monkey_islandtm_1.0l_(italian)_(20627)-1.bin",
+        "url": "/downloads/the_curse_of_monkey_island/it1installer1",
+        "version": "1.0L",
+        "platform": "windows",
+        "language": "italiano",
+        "size": 1072350603
+      },
+      {
+        "name": "the_curse_of_monkey_island__itIT_1_0l_20672.pkg",
+        "url": "/downloads/the_curse_of_monkey_island/it2installer0",
+        "version": "1.0L",
+        "platform": "mac",
+        "language": "italiano",
+        "size": 1017292269
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1553712069",
+    "title": "RiME",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_rime_1.04_(a)_(40568).exe",
+        "url": "/downloads/rime/en1installer0",
+        "version": "1.04 (A)",
+        "platform": "windows",
+        "language": "English",
+        "size": 896704
+      },
+      {
+        "name": "setup_rime_1.04_(a)_(40568)-1.bin",
+        "url": "/downloads/rime/en1installer1",
+        "version": "1.04 (A)",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294077438
+      },
+      {
+        "name": "setup_rime_1.04_(a)_(40568)-2.bin",
+        "url": "/downloads/rime/en1installer2",
+        "version": "1.04 (A)",
+        "platform": "windows",
+        "language": "English",
+        "size": 3477270966
+      },
+      {
+        "name": "setup_rime_1.04_(a)_(40568).exe",
+        "url": "/downloads/rime/de1installer0",
+        "version": "1.04 (A)",
+        "platform": "windows",
+        "language": "Deutsch",
+        "size": 896704
+      },
+      {
+        "name": "setup_rime_1.04_(a)_(40568)-1.bin",
+        "url": "/downloads/rime/de1installer1",
+        "version": "1.04 (A)",
+        "platform": "windows",
+        "language": "Deutsch",
+        "size": 4294077438
+      },
+      {
+        "name": "setup_rime_1.04_(a)_(40568)-2.bin",
+        "url": "/downloads/rime/de1installer2",
+        "version": "1.04 (A)",
+        "platform": "windows",
+        "language": "Deutsch",
+        "size": 3477270966
+      },
+      {
+        "name": "setup_rime_1.04_(a)_(40568).exe",
+        "url": "/downloads/rime/es1installer0",
+        "version": "1.04 (A)",
+        "platform": "windows",
+        "language": "espa\u00f1ol",
+        "size": 896704
+      },
+      {
+        "name": "setup_rime_1.04_(a)_(40568)-1.bin",
+        "url": "/downloads/rime/es1installer1",
+        "version": "1.04 (A)",
+        "platform": "windows",
+        "language": "espa\u00f1ol",
+        "size": 4294077438
+      },
+      {
+        "name": "setup_rime_1.04_(a)_(40568)-2.bin",
+        "url": "/downloads/rime/es1installer2",
+        "version": "1.04 (A)",
+        "platform": "windows",
+        "language": "espa\u00f1ol",
+        "size": 3477270966
+      },
+      {
+        "name": "setup_rime_latin_american_spanish_152498_signed_(14865).exe",
+        "url": "/downloads/rime/es_mx1installer0",
+        "version": "1.04",
+        "platform": "windows",
+        "language": "Espa\u00f1ol (AL)",
+        "size": 813952
+      },
+      {
+        "name": "setup_rime_latin_american_spanish_152498_signed_(14865)-1.bin",
+        "url": "/downloads/rime/es_mx1installer1",
+        "version": "1.04",
+        "platform": "windows",
+        "language": "Espa\u00f1ol (AL)",
+        "size": 4294160382
+      },
+      {
+        "name": "setup_rime_latin_american_spanish_152498_signed_(14865)-2.bin",
+        "url": "/downloads/rime/es_mx1installer2",
+        "version": "1.04",
+        "platform": "windows",
+        "language": "Espa\u00f1ol (AL)",
+        "size": 3656046175
+      },
+      {
+        "name": "setup_rime_1.04_(a)_(40568).exe",
+        "url": "/downloads/rime/fr1installer0",
+        "version": "1.04 (A)",
+        "platform": "windows",
+        "language": "fran\u00e7ais",
+        "size": 896704
+      },
+      {
+        "name": "setup_rime_1.04_(a)_(40568)-1.bin",
+        "url": "/downloads/rime/fr1installer1",
+        "version": "1.04 (A)",
+        "platform": "windows",
+        "language": "fran\u00e7ais",
+        "size": 4294077438
+      },
+      {
+        "name": "setup_rime_1.04_(a)_(40568)-2.bin",
+        "url": "/downloads/rime/fr1installer2",
+        "version": "1.04 (A)",
+        "platform": "windows",
+        "language": "fran\u00e7ais",
+        "size": 3477270966
+      },
+      {
+        "name": "setup_rime_1.04_(a)_(40568).exe",
+        "url": "/downloads/rime/it1installer0",
+        "version": "1.04 (A)",
+        "platform": "windows",
+        "language": "italiano",
+        "size": 896704
+      },
+      {
+        "name": "setup_rime_1.04_(a)_(40568)-1.bin",
+        "url": "/downloads/rime/it1installer1",
+        "version": "1.04 (A)",
+        "platform": "windows",
+        "language": "italiano",
+        "size": 4294077438
+      },
+      {
+        "name": "setup_rime_1.04_(a)_(40568)-2.bin",
+        "url": "/downloads/rime/it1installer2",
+        "version": "1.04 (A)",
+        "platform": "windows",
+        "language": "italiano",
+        "size": 3477270966
+      },
+      {
+        "name": "setup_rime_1.04_(a)_(40568).exe",
+        "url": "/downloads/rime/pl1installer0",
+        "version": "1.04 (A)",
+        "platform": "windows",
+        "language": "polski",
+        "size": 896704
+      },
+      {
+        "name": "setup_rime_1.04_(a)_(40568)-1.bin",
+        "url": "/downloads/rime/pl1installer1",
+        "version": "1.04 (A)",
+        "platform": "windows",
+        "language": "polski",
+        "size": 4294077438
+      },
+      {
+        "name": "setup_rime_1.04_(a)_(40568)-2.bin",
+        "url": "/downloads/rime/pl1installer2",
+        "version": "1.04 (A)",
+        "platform": "windows",
+        "language": "polski",
+        "size": 3477270966
+      },
+      {
+        "name": "setup_rime_1.04_(a)_(40568).exe",
+        "url": "/downloads/rime/br1installer0",
+        "version": "1.04 (A)",
+        "platform": "windows",
+        "language": "Portugu\u00eas do Brasil",
+        "size": 896704
+      },
+      {
+        "name": "setup_rime_1.04_(a)_(40568)-1.bin",
+        "url": "/downloads/rime/br1installer1",
+        "version": "1.04 (A)",
+        "platform": "windows",
+        "language": "Portugu\u00eas do Brasil",
+        "size": 4294077438
+      },
+      {
+        "name": "setup_rime_1.04_(a)_(40568)-2.bin",
+        "url": "/downloads/rime/br1installer2",
+        "version": "1.04 (A)",
+        "platform": "windows",
+        "language": "Portugu\u00eas do Brasil",
+        "size": 3477270966
+      },
+      {
+        "name": "setup_rime_1.04_(a)_(40568).exe",
+        "url": "/downloads/rime/ru1installer0",
+        "version": "1.04 (A)",
+        "platform": "windows",
+        "language": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439",
+        "size": 896704
+      },
+      {
+        "name": "setup_rime_1.04_(a)_(40568)-1.bin",
+        "url": "/downloads/rime/ru1installer1",
+        "version": "1.04 (A)",
+        "platform": "windows",
+        "language": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439",
+        "size": 4294077438
+      },
+      {
+        "name": "setup_rime_1.04_(a)_(40568)-2.bin",
+        "url": "/downloads/rime/ru1installer2",
+        "version": "1.04 (A)",
+        "platform": "windows",
+        "language": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439",
+        "size": 3477270966
+      },
+      {
+        "name": "setup_rime_1.04_(a)_(40568).exe",
+        "url": "/downloads/rime/ar1installer0",
+        "version": "1.04 (A)",
+        "platform": "windows",
+        "language": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+        "size": 896704
+      },
+      {
+        "name": "setup_rime_1.04_(a)_(40568)-1.bin",
+        "url": "/downloads/rime/ar1installer1",
+        "version": "1.04 (A)",
+        "platform": "windows",
+        "language": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+        "size": 4294077438
+      },
+      {
+        "name": "setup_rime_1.04_(a)_(40568)-2.bin",
+        "url": "/downloads/rime/ar1installer2",
+        "version": "1.04 (A)",
+        "platform": "windows",
+        "language": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+        "size": 3477270966
+      },
+      {
+        "name": "setup_rime_1.04_(a)_(40568).exe",
+        "url": "/downloads/rime/jp1installer0",
+        "version": "1.04 (A)",
+        "platform": "windows",
+        "language": "\u65e5\u672c\u8a9e",
+        "size": 896704
+      },
+      {
+        "name": "setup_rime_1.04_(a)_(40568)-1.bin",
+        "url": "/downloads/rime/jp1installer1",
+        "version": "1.04 (A)",
+        "platform": "windows",
+        "language": "\u65e5\u672c\u8a9e",
+        "size": 4294077438
+      },
+      {
+        "name": "setup_rime_1.04_(a)_(40568)-2.bin",
+        "url": "/downloads/rime/jp1installer2",
+        "version": "1.04 (A)",
+        "platform": "windows",
+        "language": "\u65e5\u672c\u8a9e",
+        "size": 3477270966
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1640205738",
+    "title": "SHENZHEN I/O",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "shenzhen_i_o_enUS_gog_4__26_03_2023__.pkg",
+        "url": "/downloads/shenzhen_io/en2installer0",
+        "version": "gog-4 (26.03.2023)",
+        "platform": "mac",
+        "language": "English",
+        "size": 276104440
+      },
+      {
+        "name": "shenzhen_i_o_gog_4_26_03_2023_63470.sh",
+        "url": "/downloads/shenzhen_io/en3installer0",
+        "version": "gog-4 (26.03.2023)",
+        "platform": "linux",
+        "language": "English",
+        "size": 291078496
+      },
+      {
+        "name": "setup_shenzhen_io_gog-4_(26.03.2023)_(63468).exe",
+        "url": "/downloads/shenzhen_io/en1installer0",
+        "version": "gog-4 (26.03.2023)",
+        "platform": "windows",
+        "language": "English",
+        "size": 407576096
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1689871374",
+    "title": "Butcher",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_butcher_w.i.m.p_(gog-10)_(33398).exe",
+        "url": "/downloads/butcher/en1installer0",
+        "version": "W.I.M.P (gog-10)",
+        "platform": "windows",
+        "language": "English",
+        "size": 109454400
+      },
+      {
+        "name": "setup_butcher_32_w.i.m.p._(gog-8)_(13711).exe",
+        "url": "/downloads/butcher/en1patch1",
+        "version": "",
+        "platform": "windows",
+        "language": "English",
+        "size": 90923184
+      },
+      {
+        "name": "butcher_enUS_w_i_m_p__gog_9__33017.pkg",
+        "url": "/downloads/butcher/en2installer0",
+        "version": "W.I.M.P (gog-9)",
+        "platform": "mac",
+        "language": "English",
+        "size": 121435947
+      },
+      {
+        "name": "butcher_w_i_m_p_gog_10_33399.sh",
+        "url": "/downloads/butcher/en3installer0",
+        "version": "W.I.M.P (gog-10)",
+        "platform": "linux",
+        "language": "English",
+        "size": 122159321
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1724969043",
+    "title": "Tomb Raider GOTY",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_tomb_raider_1.0_(47026).exe",
+        "url": "/downloads/tomb_raider_goty/en1installer0",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 1113104
+      },
+      {
+        "name": "setup_tomb_raider_1.0_(47026)-1.bin",
+        "url": "/downloads/tomb_raider_goty/en1installer1",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 4293862398
+      },
+      {
+        "name": "setup_tomb_raider_1.0_(47026)-2.bin",
+        "url": "/downloads/tomb_raider_goty/en1installer2",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_tomb_raider_1.0_(47026)-3.bin",
+        "url": "/downloads/tomb_raider_goty/en1installer3",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_tomb_raider_1.0_(47026)-4.bin",
+        "url": "/downloads/tomb_raider_goty/en1installer4",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_tomb_raider_1.0_(47026)-5.bin",
+        "url": "/downloads/tomb_raider_goty/en1installer5",
+        "version": "1.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 667605012
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1748855533",
+    "title": "Sunrider: Mask of Arcadius",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "sunrider_mask_of_arcadius_en_gog_1_21014.sh",
+        "url": "/downloads/sunrider_mask_of_arcadius/en3installer0",
+        "version": "gog-1",
+        "platform": "linux",
+        "language": "English",
+        "size": 1188348003
+      },
+      {
+        "name": "setup_sunrider_mask_of_arcadius_7.2_hotfix_(20990).exe",
+        "url": "/downloads/sunrider_mask_of_arcadius/en1installer0",
+        "version": "7.2 Hotfix",
+        "platform": "windows",
+        "language": "English",
+        "size": 1178700176
+      },
+      {
+        "name": "sunrider__mask_of_arcadius_enUS_7_2_hotfix_21014.pkg",
+        "url": "/downloads/sunrider_mask_of_arcadius/en2installer0",
+        "version": "7.2 Hotfix",
+        "platform": "mac",
+        "language": "English",
+        "size": 1189828081
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1757179626",
+    "title": "Hitman: Absolution",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_hitman_absolution_1.0.447.0_(28478).exe",
+        "url": "/downloads/hitman_absolution/en1installer0",
+        "version": "1.0.447.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 2611072
+      },
+      {
+        "name": "setup_hitman_absolution_1.0.447.0_(28478)-1.bin",
+        "url": "/downloads/hitman_absolution/en1installer1",
+        "version": "1.0.447.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 4292363262
+      },
+      {
+        "name": "setup_hitman_absolution_1.0.447.0_(28478)-2.bin",
+        "url": "/downloads/hitman_absolution/en1installer2",
+        "version": "1.0.447.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_hitman_absolution_1.0.447.0_(28478)-3.bin",
+        "url": "/downloads/hitman_absolution/en1installer3",
+        "version": "1.0.447.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294967294
+      },
+      {
+        "name": "setup_hitman_absolution_1.0.447.0_(28478)-4.bin",
+        "url": "/downloads/hitman_absolution/en1installer4",
+        "version": "1.0.447.0",
+        "platform": "windows",
+        "language": "English",
+        "size": 239882607
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1793058586",
+    "title": "Desperados III Demo",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_desperados_3_demo_1.0b_(38752).exe",
+        "url": "/downloads/desperados_iii_demo/en1installer0",
+        "version": "1.0b",
+        "platform": "windows",
+        "language": "English",
+        "size": 1507672
+      },
+      {
+        "name": "setup_desperados_3_demo_1.0b_(38752)-1.bin",
+        "url": "/downloads/desperados_iii_demo/en1installer1",
+        "version": "1.0b",
+        "platform": "windows",
+        "language": "English",
+        "size": 4293466622
+      },
+      {
+        "name": "setup_desperados_3_demo_1.0b_(38752)-2.bin",
+        "url": "/downloads/desperados_iii_demo/en1installer2",
+        "version": "1.0b",
+        "platform": "windows",
+        "language": "English",
+        "size": 1747510018
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1797331296",
+    "title": "Barony",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_barony_v4.3.0-011124_(64bit)_(77486).exe",
+        "url": "/downloads/barony/en1installer0",
+        "version": "V4.3.0-011124",
+        "platform": "windows",
+        "language": "English",
+        "size": 585674864
+      },
+      {
+        "name": "barony_enUS_v4_3_0_011124_mac_.pkg",
+        "url": "/downloads/barony/en2installer0",
+        "version": "V4.3.0-011124-mac",
+        "platform": "mac",
+        "language": "English",
+        "size": 594042033
+      },
+      {
+        "name": "barony_v4_3_0_011124_linux_77488.sh",
+        "url": "/downloads/barony/en3installer0",
+        "version": "V4.3.0-011124-linux",
+        "platform": "linux",
+        "language": "English",
+        "size": 583770367
+      }
+    ],
+    "dlcs": [
+      {
+        "title": "Barony: Legends & Pariahs",
+        "cd_key": "",
+        "files": [
+          {
+            "name": "dlc_barony__legends___pariahs_enUS_V4_3_0_011124_mac_.pkg",
+            "url": "/downloads/barony_legends_pariahs/en2installer0",
+            "version": "V4.3.0-011124-mac",
+            "platform": "mac",
+            "language": "English",
+            "size": 16096
+          },
+          {
+            "name": "barony_legends_pariahs_v4_3_0_011124_linux_77488.sh",
+            "url": "/downloads/barony_legends_pariahs/en3installer0",
+            "version": "V4.3.0-011124-linux",
+            "platform": "linux",
+            "language": "English",
+            "size": 1488974
+          },
+          {
+            "name": "setup_barony_legends__pariahs_v4.3.0-011124_(64bit)_(77486).exe",
+            "url": "/downloads/barony_legends_pariahs/en1installer0",
+            "version": "V4.3.0-011124",
+            "platform": "windows",
+            "language": "English",
+            "size": 5834768
+          }
+        ]
+      },
+      {
+        "title": "Barony: Myths & Outcasts",
+        "cd_key": "",
+        "files": [
+          {
+            "name": "setup_barony_myths__outcasts_v4.3.0-011124_(64bit)_(77486).exe",
+            "url": "/downloads/barony_myths_outcasts/en1installer0",
+            "version": "V4.3.0-011124",
+            "platform": "windows",
+            "language": "English",
+            "size": 5488368
+          },
+          {
+            "name": "barony_myths_outcasts_v4_3_0_011124_linux_77488.sh",
+            "url": "/downloads/barony_myths_outcasts/en3installer0",
+            "version": "V4.3.0-011124-linux",
+            "platform": "linux",
+            "language": "English",
+            "size": 1488960
+          },
+          {
+            "name": "dlc_barony__myths___outcasts_enUS_V4_3_0_011124_mac_.pkg",
+            "url": "/downloads/barony_myths_outcasts/en2installer0",
+            "version": "V4.3.0-011124-mac",
+            "platform": "mac",
+            "language": "English",
+            "size": 16097
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1810841502",
+    "title": "Tomb Raider: Legend",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_tomb_raider_legend_1.2_(48900).exe",
+        "url": "/downloads/tomb_raider_legend/en1installer0",
+        "version": "1.2",
+        "platform": "windows",
+        "language": "English",
+        "size": 910560
+      },
+      {
+        "name": "setup_tomb_raider_legend_1.2_(48900)-1.bin",
+        "url": "/downloads/tomb_raider_legend/en1installer1",
+        "version": "1.2",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294063102
+      },
+      {
+        "name": "setup_tomb_raider_legend_1.2_(48900)-2.bin",
+        "url": "/downloads/tomb_raider_legend/en1installer2",
+        "version": "1.2",
+        "platform": "windows",
+        "language": "English",
+        "size": 922111706
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1863535689",
+    "title": "Hello Neighbor Alpha Version",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_hello_neighbor_demo_pre-alpha_(13261).exe",
+        "url": "/downloads/hello_neighbor_demo/en1installer0",
+        "version": "pre-alpha",
+        "platform": "windows",
+        "language": "English",
+        "size": 441913968
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1885026907",
+    "title": "Escape from Monkey Island\u2122",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_escape_from_monkey_islandtm_1.1_(20987).exe",
+        "url": "/downloads/escape_from_monkey_island/en1installer0",
+        "version": "1.1",
+        "platform": "windows",
+        "language": "English",
+        "size": 811456
+      },
+      {
+        "name": "setup_escape_from_monkey_islandtm_1.1_(20987)-1.bin",
+        "url": "/downloads/escape_from_monkey_island/en1installer1",
+        "version": "1.1",
+        "platform": "windows",
+        "language": "English",
+        "size": 1189105367
+      },
+      {
+        "name": "setup_escape_from_monkey_islandtm_1.1_(german)_(20987).exe",
+        "url": "/downloads/escape_from_monkey_island/de1installer0",
+        "version": "1.1",
+        "platform": "windows",
+        "language": "Deutsch",
+        "size": 812176
+      },
+      {
+        "name": "setup_escape_from_monkey_islandtm_1.1_(german)_(20987)-1.bin",
+        "url": "/downloads/escape_from_monkey_island/de1installer1",
+        "version": "1.1",
+        "platform": "windows",
+        "language": "Deutsch",
+        "size": 1224140496
+      },
+      {
+        "name": "setup_escape_from_monkey_islandtm_1.1_(spanish)_(20987).exe",
+        "url": "/downloads/escape_from_monkey_island/es1installer0",
+        "version": "1.1",
+        "platform": "windows",
+        "language": "espa\u00f1ol",
+        "size": 814072
+      },
+      {
+        "name": "setup_escape_from_monkey_islandtm_1.1_(spanish)_(20987)-1.bin",
+        "url": "/downloads/escape_from_monkey_island/es1installer1",
+        "version": "1.1",
+        "platform": "windows",
+        "language": "espa\u00f1ol",
+        "size": 1187909193
+      },
+      {
+        "name": "setup_escape_from_monkey_islandtm_1.1_(french)_(20987).exe",
+        "url": "/downloads/escape_from_monkey_island/fr1installer0",
+        "version": "1.1",
+        "platform": "windows",
+        "language": "fran\u00e7ais",
+        "size": 814232
+      },
+      {
+        "name": "setup_escape_from_monkey_islandtm_1.1_(french)_(20987)-1.bin",
+        "url": "/downloads/escape_from_monkey_island/fr1installer1",
+        "version": "1.1",
+        "platform": "windows",
+        "language": "fran\u00e7ais",
+        "size": 1217608957
+      },
+      {
+        "name": "setup_escape_from_monkey_islandtm_1.1_(italian)_(20987).exe",
+        "url": "/downloads/escape_from_monkey_island/it1installer0",
+        "version": "1.1",
+        "platform": "windows",
+        "language": "italiano",
+        "size": 812176
+      },
+      {
+        "name": "setup_escape_from_monkey_islandtm_1.1_(italian)_(20987)-1.bin",
+        "url": "/downloads/escape_from_monkey_island/it1installer1",
+        "version": "1.1",
+        "platform": "windows",
+        "language": "italiano",
+        "size": 1225747585
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1900745791",
+    "title": "Tomb Raider: Underworld",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_tomb_raider_underworld_1.1_(46856).exe",
+        "url": "/downloads/tomb_raider_underworld/en1installer0",
+        "version": "1.1",
+        "platform": "windows",
+        "language": "English",
+        "size": 915384
+      },
+      {
+        "name": "setup_tomb_raider_underworld_1.1_(46856)-1.bin",
+        "url": "/downloads/tomb_raider_underworld/en1installer1",
+        "version": "1.1",
+        "platform": "windows",
+        "language": "English",
+        "size": 4294058494
+      },
+      {
+        "name": "setup_tomb_raider_underworld_1.1_(46856)-2.bin",
+        "url": "/downloads/tomb_raider_underworld/en1installer2",
+        "version": "1.1",
+        "platform": "windows",
+        "language": "English",
+        "size": 3011150629
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "1971477531",
+    "title": "GWENT: The Witcher Card Game",
+    "cd_key": "",
+    "files": [],
+    "dlcs": []
+  },
+  {
+    "id": "1980301910",
+    "title": "The Witcher Goodies Collection",
+    "cd_key": "",
+    "files": [],
+    "dlcs": []
+  },
+  {
+    "id": "2016844216",
+    "title": "CAYNE",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_cayne_2.0.0.2.exe",
+        "url": "/downloads/cayne/en1installer1",
+        "version": "1.26 (gog-2)",
+        "platform": "windows",
+        "language": "English",
+        "size": 29164400
+      },
+      {
+        "name": "setup_cayne_2.0.0.2-1.bin",
+        "url": "/downloads/cayne/en1installer2",
+        "version": "1.26 (gog-2)",
+        "platform": "windows",
+        "language": "English",
+        "size": 2051815079
+      },
+      {
+        "name": "cayne_en_2.0.0.1.pkg",
+        "url": "/downloads/cayne/en2installer1",
+        "version": "1.26 (gog-1)",
+        "platform": "mac",
+        "language": "English",
+        "size": 2229065190
+      },
+      {
+        "name": "gog_cayne_2.0.0.1.sh",
+        "url": "/downloads/cayne/en3installer1",
+        "version": "1.26 (gog-1)",
+        "platform": "linux",
+        "language": "English",
+        "size": 2229589515
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "2018305509",
+    "title": "Alder's Blood Prologue",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_alders_blood_prologue_1.0.20a_(64bit)_(37554).exe",
+        "url": "/downloads/alders_blood_prologue/en1installer0",
+        "version": "1.0.20a",
+        "platform": "windows",
+        "language": "English",
+        "size": 218460576
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "2020648154",
+    "title": "Legend of Keepers: Prologue",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "legend_of_keepers_prologue_0_9_2_1_44469.sh",
+        "url": "/downloads/legend_of_keepers_prologue/en3installer0",
+        "version": "0.9.2.1",
+        "platform": "linux",
+        "language": "English",
+        "size": 332719214
+      },
+      {
+        "name": "setup_legend_of_keepers_prologue_0.9.2.1_(44468).exe",
+        "url": "/downloads/legend_of_keepers_prologue/en1installer0",
+        "version": "0.9.2.1",
+        "platform": "windows",
+        "language": "English",
+        "size": 337899080
+      },
+      {
+        "name": "legend_of_keepers__prologue_enUS_0_9_2_1_44468.pkg",
+        "url": "/downloads/legend_of_keepers_prologue/en2installer0",
+        "version": "0.9.2.1",
+        "platform": "mac",
+        "language": "English",
+        "size": 345142862
+      }
+    ],
+    "dlcs": []
+  },
+  {
+    "id": "2070729622",
+    "title": "EXAPUNKS",
+    "cd_key": "",
+    "files": [
+      {
+        "name": "setup_exapunks_gog-26.03.2023_(63464).exe",
+        "url": "/downloads/exapunks/en1installer0",
+        "version": "gog-26.03.2023",
+        "platform": "windows",
+        "language": "English",
+        "size": 597375440
+      },
+      {
+        "name": "exapunks_enUS_gog_26_03_2023_.pkg",
+        "url": "/downloads/exapunks/en2installer0",
+        "version": "gog-26.03.2023",
+        "platform": "mac",
+        "language": "English",
+        "size": 525447195
+      },
+      {
+        "name": "exapunks_gog_26_03_2023_63466.sh",
+        "url": "/downloads/exapunks/en3installer0",
+        "version": "gog-26.03.2023",
+        "platform": "linux",
+        "language": "English",
+        "size": 552817851
+      }
+    ],
+    "dlcs": []
+  }
+]
